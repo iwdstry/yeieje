@@ -1,13 +1,13 @@
 - title: home
-  url: /
+  url: "https://iwdstry.github.io/yeieje"
   external: false
 
 - title: archive
-  url: /archive/
+  url: /yeieje/archive/
   external: false
 
 - title: about
-  url: /about/
+  url: /yeieje/about/
   external: false # set true if you using external link, see below
 
 # Example:
