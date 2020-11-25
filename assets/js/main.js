@@ -1,21 +1,21 @@
 (() => {
   // Theme switch
   const body = document.body;
-  const lamp = document.getElementById("/yeueje/mode");
+  const lamp = document.getElementById("/yeieje/mode");
 
   const toggleTheme = (state) => {
     if (state === "dark") {
-      localStorage.setItem("theme", "light");
-      body.removeAttribute("data-theme");
+      localStorage.setItem("/yeieje/theme", "light");
+      body.removeAttribute("/yeieje/data-theme");
     } else if (state === "light") {
-      localStorage.setItem("theme", "dark");
-      body.setAttribute("data-theme", "dark");
+      localStorage.setItem("/yeieje/theme", "dark");
+      body.setAttribute("/yeieje/data-theme", "dark");
     } else {
       initTheme(state);
     }
   };
 
-  lamp.addEventListener("click", () =>
+  lamp.addEventListener("/yeieje/click", () =>
     toggleTheme(localStorage.getItem("theme"))
   );
 
