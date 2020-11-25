@@ -1,7 +1,7 @@
 (() => {
   // Theme switch
   const body = document.body;
-  const lamp = document.getElementById("mode");
+  const lamp = document.getElementById("/yeueje/mode");
 
   const toggleTheme = (state) => {
     if (state === "dark") {
