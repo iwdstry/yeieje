@@ -18,9 +18,7 @@ comments: false
 <br/>
 <br/>
 <br/>
-##### 게시글에 댓글란은 너무 못생겨서(ㅠ) 다시는 적용시키고 싶지 않습니다.<br/>
-##### **오류 발견 시, if u want to contact me** 
-[💌](https://twitter.com/yeieje2){: target="_blank"}
-<br/>
-###### **may u need about theme. Original theme [✨](https://github.com/piharpi/jekyll-klise){: target="_blank"}** 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new){: target="_blank"} if there is an broken link(s) or somethings else.
+
+<font size="7pt">게시글란에 댓글창은 너무 못생겨서..</br>
+<b>오류 발견 시, if u want to contact me [💌](https://twitter.com/yeieje2){: target="_blank"}</br>
+may u need about theme. Original theme [✨](https://github.com/piharpi/jekyll-klise){: target="_blank"}</b> You can [report](http://github.com/piharpi/jekyll-klise/issues/new){: target="_blank"} if there is an broken link(s) or somethings else. </font size>
