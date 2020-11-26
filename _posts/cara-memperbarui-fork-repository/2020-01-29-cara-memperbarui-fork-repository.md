@@ -12,9 +12,8 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 
 <figure>
 
-<imv src="https://user-images.githubusercontent.com/74714697/100329442-00260100-3011-11eb-8bae-7b5c6a2d8ccf.jpg">
 
-<img src="./yeieje/_posts/cara-memperbarui-fork-repository/repo.png" alt="ilustrasi repo yang mau diupdate">
+<img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
