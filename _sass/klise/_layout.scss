@@ -3,7 +3,7 @@
   height: auto;
   max-width: calc(#{$wide-size} - (#{$spacing-full} * 2));
   max-width: -webkit-calc(#{$wide-size} - (#{$spacing-full} * 2));
-  position: relative;
+  position: relative; 
   margin-right: auto;
   margin-left: auto;
   border-bottom: 1px solid $light;
@@ -182,7 +182,7 @@
 // Author
 .author {
   margin-top: 6.3rem;
-  margin-bottom: 1.3rem;
+  margin-bottom: 3px;
   text-align: center;
 
   @include media-query($on-mobile) {
