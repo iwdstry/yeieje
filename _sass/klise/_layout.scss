@@ -182,11 +182,11 @@
 // Author
 .author {
   margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  margin-bottom: 3rem;
   text-align: center;
 
   @include media-query($on-mobile) {
-    margin-bottom: 3em;
+    margin-bottom: 15em;
   }
 
   .author-avatar {
