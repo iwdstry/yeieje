@@ -13,21 +13,21 @@
   </title>
   <link
     rel="alternate"
-    href="{{
+    href="/yeieje/{{
       page.url | remove: 'index.html' | remove: '.html' | absolute_url
     }}"
     hreflang="{{ site.lang }}"
   />
   <link
     rel="canonical"
-    href="{{
+    href="/yeieje/{{
       page.url  | remove: 'index.html' | remove: '.html' | absolute_url
     }}"
   />
   {% if paginator.previous_page %}
   <link
     rel="prev"
-    href="{{
+    href="/yeieje/{{
       paginator.previous_page_path
         | remove: 'index.html'
         | remove: '.html'
@@ -36,7 +36,7 @@
   {% endif %} {% if paginator.next_page %}
   <link
     rel="next"
-    href="{{
+    href="/yeieje/{{
       paginator.next_page_path
         | remove: 'index.html'
         | remove: '.html'
@@ -60,13 +60,13 @@
     property="og:site_name"
     content="{% if page.title %}{{ page.title }} | {{
       site.author.facebook
-    }}{% else %}{{ site.title | escape }}{% endif %}"
+    }}{% else %}{{ site.title }}{% endif %}"
   />
   <meta
     property="og:title"
     content="{% if page.title %}{{ page.title }} | {{
       site.author.facebook
-    }}{% else %}{{ site.title | escape }}{% endif %}"
+    }}{% else %}{{ site.title }}{% endif %}"
   />
   {% if page.location %}
   <meta property="og:type" content="article" />
