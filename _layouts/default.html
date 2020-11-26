@@ -6,8 +6,9 @@ layout: compress
 {% include header.html %}
 
 <body data-theme="{{ site.mode }}" class="notransition">
-
-  <script>
+  <body oncontextmenu='return false' ondragstart='return false' onselectstart='return false'>
+  
+    <script>
     const body = document.body;
     const data = body.getAttribute("data-theme");
 
