@@ -9,9 +9,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: <span style="font-size:15px">&#10024;</span>Chan # author name
+  name: <span style="font-size:15px">&#127803;</span>Chan # author name
   bio:  <b>찬찬의 <font color="#F15F5F">아기천사</font color> 자료 쌓아두는 곳. <font color="#36B8CF">Archive</font color></b>는 날짜별 목록, <b><font color="#36B8CF">Tags</font color></b>는 태그별 목록입니다. 검색창은 작동이 안 돼요. # tell to the world
-  username: yeieje # general username
+  username: <span style="font-size:15px">&#127803;</span>yeieje # general username
   github: github_yeieje # github username
   twitter: twitter_yeieje # twitter username
   avatar: /yeieje/assets/img/avatar.jpg # change with your own avatar
