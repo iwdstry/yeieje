@@ -6,8 +6,8 @@
   url: /yeieje/archive/
   external: false
 
-- title: about
-  url: /yeieje/about/
+- title: tags
+  url: /yeieje/tags/
   external: false # set true if you using external link, see below
 
 # Example:
