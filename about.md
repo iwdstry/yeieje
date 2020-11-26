@@ -10,7 +10,7 @@ comments: false
   <img src="https://user-images.githubusercontent.com/74714697/100355232-bea74d00-3034-11eb-879b-5e6bb5a9d9bf.png" width="150px" height="150px">
 </center>
 
-<font color="'#F15F5F'>**Deadpool**</font color>과 관련된 자료나 이슈를 읽고 저장해두는 공간입니다. 
+<font color="#F15F5F">**Deadpool**</font color>과 관련된 자료나 이슈를 읽고 저장해두는 공간입니다. 
 근데 제가 영어를 못해서요. 업로드하는 모든 번역/해석에 오류가 있습니다 (있을 수  있음 X 레알 걍 있음 O). 혹시 의미가 엄청나게 왜곡되거나 아예 영 딴판인 내용이 발견되면 꼭 꼭 말씀 부탁드립니다. **꼭**이요. 진지해요. **꼭** 저는 풀이를 더 **정확**하게 알고 싶은 사람.. 
 
 
