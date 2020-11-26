@@ -1,18 +1,17 @@
 ---
-title: Colophon
+title: ABOUT THIS BLOG
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+[POOL](https://www.marvel.com/characters/deadpool-wade-wilson) 과 관련된 데이터, 이슈 등을 읽고 쌓아두는 곳 🎒 입니다. 영어를 못해서 의역 범벅이라 모든 번역/해석에 오류가 있으며 (있을 수 있는 X 확실히 있는 O). 혹시 의미가 엄청나게 왜곡된 부분이 있으면 꼭 말씀 부탁드립니다. 저는.. 풀이를 더욱 정확하게 알고 싶은 사람..  
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
-**may u needs ✨**
+**if u want to help me ✨**
+- 
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**may u need about theme ✨**
+
+- Original theme <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>. You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
