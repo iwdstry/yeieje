@@ -19,4 +19,4 @@ comments: false
 <br/>
 <br/>
 
-###### **오류 발견 시, if u want to contact me, DM me [💌](https://twitter.com/){: target="_blank"} ###### **may u need about theme. You can access to original theme [✨](https://github.com/piharpi/jekyll-klise){: target="_blank"} and also you can [report](http://github.com/piharpi/jekyll-klise/issues/new){: target="_blank"}
+###### **오류 발견 시, if u want to contact me, report me [💌](https://github.com/iwdstry/yeieje/issues/new){: target="_blank"} 
