@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: yeieje # author name
-  bio: Archive: 날짜별 목록, Tags: 태그별 목록 # tell to the world
+  bio:  Archive는 날짜별 목록 Tags 태그별 목록 # tell to the world
   username: yeieje # general username
   github: github_yeieje # github username
   twitter: twitter_yeieje # twitter username
