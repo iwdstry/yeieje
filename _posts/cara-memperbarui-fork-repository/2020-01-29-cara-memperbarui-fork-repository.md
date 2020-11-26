@@ -11,7 +11,8 @@ image: /cara-memperbarui-fork-repository/repo.png
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
 <figure>
-<img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
+![Image](./cara-memperbarui-fork-repository/repo.png)
+<img src="/yeieje/_posts/{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
