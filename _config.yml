@@ -46,11 +46,11 @@ defaults:
 jekyll_compose:
   post_default_front_matter:
     modified:
-    tags: []
+    tags: [ GITHUB ]
     description:
   draft_default_front_matter:
     modified:
-    tags: []
+    tags: [ GITHUB ]
     description:
 
 # Homepage limit posts
