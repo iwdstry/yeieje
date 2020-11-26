@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: <span style="font-size:20px">&#127804;</span>Chan # author name
-  bio:  <b>찬찬의 <font color="#F15F5F">총칼 든 아기천사</font color> 자료 쌓아두는 곳. </br><font color="#36B8CF">Archive</font color></b>는 날짜별 목록, <b><font color="#36B8CF">Tags</font color></b>는 태그별 목록.</br>검색창은 작동이 안 돼요. # tell to the world
+  bio:  <b>찬찬의 <font color="#F15F5F">총칼 든 아기천사</font color> 읽는 곳. </br><font color="#36B8CF">Archive</font color></b>는 날짜별 목록, <b><font color="#36B8CF">Tags</font color></b>는 태그별 목록.</br>모든 글 왜곡/의역 주의 # tell to the world
   username: yeieje # general username
   github: github_yeieje # github username
   twitter: twitter_yeieje # twitter username
