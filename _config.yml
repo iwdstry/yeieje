@@ -1,6 +1,6 @@
 # Site settings
-title: yeieje # site title
-description: yeiejes home # site description
+title: YEIEJEs HOME # site title
+description: YEIEJEs HOME # site description
 lang: en-US # default lang
 timezone: # set your timezone
 image: /yeieje/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: yeieje # author name
+  name: YEIEJE # author name
   bio:  Archive는 날짜별 목록 Tags 태그별 목록 # tell to the world
   username: yeieje # general username
   github: github_yeieje # github username
