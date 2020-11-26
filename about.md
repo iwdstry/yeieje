@@ -21,4 +21,4 @@ comments: false
 
 <font size="7pt">게시글란에 댓글창은 너무 못생겨서..</br>
 <b>오류 발견 시, if u want to contact me [💌](https://twitter.com/yeieje2){: target="_blank"}</br>
-may u need about theme. Original theme [✨](https://github.com/piharpi/jekyll-klise){: target="_blank"}</b> You can [report](http://github.com/piharpi/jekyll-klise/issues/new){: target="_blank"} if there is an broken link(s) or somethings else. </font size>
+may u need about theme. You can access to original theme [✨](https://github.com/piharpi/jekyll-klise){: target="_blank"}</b> and also you can [report](http://github.com/piharpi/jekyll-klise/issues/new){: target="_blank"}</font size>
