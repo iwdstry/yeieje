@@ -1,6 +1,6 @@
 # Site settings
-title: <span style="font-size:20px">&#127804;</span> # site title
-description: YEIEJEs HOME # site description
+title:  - # site title
+description: Chans HOME # site description
 lang: en-US # default lang
 timezone: # set your timezone
 image: /yeieje/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
