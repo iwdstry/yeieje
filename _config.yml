@@ -1,5 +1,5 @@
 # Site settings
-title: YEIEJEs HOME # site title
+title: CHANs HOME # site title
 description: YEIEJEs HOME # site description
 lang: en-US # default lang
 timezone: # set your timezone
@@ -9,8 +9,8 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: YEIEJE # author name
-  bio:  *Archive는 날짜별 목록 *Tags 태그별 목록 # tell to the world
+  name: Chan # author name
+  bio:  Archive는 날짜별 목록, Tags는 태그별 목록입니다. 검색창은 있는데 사용이 안 돼요. # tell to the world
   username: yeieje # general username
   github: github_yeieje # github username
   twitter: twitter_yeieje # twitter username
