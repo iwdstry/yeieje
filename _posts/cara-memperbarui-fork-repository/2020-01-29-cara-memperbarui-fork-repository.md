@@ -5,13 +5,13 @@ date: 2020-01-29 01:00 +0700
 modified: 2020-03-07 16:49:47 +07:00
 description: Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet lagi.
 tag: [data]
-image: /yeieje/cara-memperbarui-fork-repository/repo.png
+image: "/yeieje/cara-memperbarui-fork-repository/repo.png"
 ---
 
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
 <figure>
-<img src="/yeieje/{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
+<img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
