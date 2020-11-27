@@ -7,5 +7,4 @@ title:  지금까지 읽은 링크
 ## Biography
 <br/>
 ---
-<br/>
-### Uncanny X Men https://uncannyxmen.net/characters/deadpool/biography
+#### Uncanny X Men https://uncannyxmen.net/characters/deadpool/biography
