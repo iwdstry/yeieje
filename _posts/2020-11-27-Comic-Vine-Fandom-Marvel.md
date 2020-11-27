@@ -60,6 +60,7 @@ tag: [DATA/bio]
 <br />
 <br />
  
+
 ### Mavel Fandom. Early years
 * * *
 
@@ -67,7 +68,7 @@ tag: [DATA/bio]
 
  
 
-*원문: she took out her anger on him until, as an adult, he beat her instead. 
+<small> *원문: she took out her anger on him until, as an adult, he beat her instead.</small>
 
  
 
@@ -95,7 +96,6 @@ tag: [DATA/bio]
 이후에 밝혀진 건, 가족에 대한 그의 다양한 모순적 기억은 버틀러에 의해 심어졌다는 것이며 
 데드풀은 버틀러의 지배 아래에 있을 동안 제 가족을 죽이게끔 강요를 당했다는 것이다.  
 <br/>
-
 웨이드는 제가 오하이오에서 자랐다고 기억하지만, 그게 진실이 아닐 수도 있다고 인식하고 있기도 하다.
 이 미스테리한 청년은 군에 입대해 군 복무 전반, 아니면 최소 전투 복무에서 뛰어난 능력을 발휘한다. 
 엄격한 위계질서와 규칙은 이 젊은 친구의 자아와, 권위 있는 인물들에게 반항하는 
