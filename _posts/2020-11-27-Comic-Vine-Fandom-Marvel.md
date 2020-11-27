@@ -9,7 +9,6 @@ tag: [DATA/bio]
 <br/>
 ###### [Comic Vine](https://comicvine.gamespot.com/deadpool/4005-7606/){: target="_blank"}
 <br/>
-
 ### Comic Vine. Origin  
 * * * 
 <br/>
