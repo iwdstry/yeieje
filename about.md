@@ -11,7 +11,7 @@ comments: false
 </center>
 <br/>
 <br/>
-총칼 든 아기천사👶**Deadpool**👶과 관련된 <span style="color:#1993A8">자료나 이슈</span> 등을 읽고 쌓아두는 곳입니다. <br/>
+총칼 든 아기천사👶**Deadpool👶과 관련된 <span style="color:#1993A8">자료나 이슈</span>** 등을 읽고 쌓아두는 곳입니다. <br/>
 근데 제가 영어를 못해서 **<span style="color:#F15F5F">💀모든 게시글은 오류가 있습니다(있을 수 X 있음 O)💀</span>**<br/>
 <mark><span style="color:#078196">의미가 엄청 왜곡됐거나 내용이 아예 딴판인 걸 발견하시면 "꼭" 말씀 부탁드립니다.</span></mark> <b>꼭!</b><br/>
 저는 풀이를 더욱더 **정확**하게 알고 싶은 사람.. <br/> 근데 여기 댓창이 엄청 못생겨서 결국 지웠음..<br/>
