@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Comic Vine, Fandom Marvel Origin
+title: Comic Vine, Fandom Marvel. Origin
 date: 2020-11-26
 modified: 2020-11-26
 description: .
 tag: [DATA/bio]
 ---
-###### [Comic Vine](https://comicvine.gamespot.com/deadpool/4005-7606/){: target="_blank"}
 <br/>
+###### [Comic Vine](https://comicvine.gamespot.com/deadpool/4005-7606/){: target="_blank"}
 <br/>
 
 ### Comic vine 데드풀 Origin  
