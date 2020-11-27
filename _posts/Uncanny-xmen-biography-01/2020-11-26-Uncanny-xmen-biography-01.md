@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncanny X men. Biography 01🔆
+title: Uncanny X-men. Biography 01🔆
 date: 2020-11-26
 modified: 2020-11-26
 description: .
