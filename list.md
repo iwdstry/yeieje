@@ -1,6 +1,7 @@
 ---
-layout: page
 title:  Source 모음
+layout: page
+permalink: /list/
 ---
 <br/>
 <br/>
