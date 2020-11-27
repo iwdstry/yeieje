@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Comic Vine, Fandom Marvel. Origin
-date: 2020-11-26
-modified: 2020-11-26
+date: 2020-11-27
+modified: 2020-11-27
 description: .
 tag: [DATA/bio]
 ---
