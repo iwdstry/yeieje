@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://user-images.githubusercontent.com/74714697/100406111-70cc2c80-30a8-11eb-9d83-4a64e1b37c15.jpg"/>
+            <square150x150logo src="/yeieje/assets/img/browser.jpg"/>
             <TileColor>#2c2c2c</TileColor>
         </tile>
     </msapplication>
