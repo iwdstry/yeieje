@@ -10,7 +10,7 @@ tag: [DATA/bio]
 ###### [Comic Vine](https://comicvine.gamespot.com/deadpool/4005-7606/){: target="_blank"}
 <br/>
 
-### Comic vine 데드풀 Origin  
+### Comic Vine. Origin  
 * * * 
 <br/>
 웨이드 윌슨은 오하이오주의 작은 마을, 콩가루 집안에서 평범하게 태어났다. 
@@ -35,7 +35,7 @@ tag: [DATA/bio]
 
 
 <br/>
-### Comic Vine 데드풀 Major Story Arcs-Before Weapon X
+### Comic Vine. Major Story Arcs-Before Weapon X
 * * * 
 <br/>
 웨이드 윌슨은 미스테리에 가려진 남자다.
@@ -53,7 +53,7 @@ tag: [DATA/bio]
 
 ###### [Fandom Marvel](https://marvel.fandom.com/wiki/Wade_Wilson_(Earth-616)){: target="_blank"}
 
-### Mavel Fandom Origin History
+### Mavel Fandom. History
 * * *
 <br/>
 
@@ -61,7 +61,7 @@ tag: [DATA/bio]
 <br />
 <br />
  
-### Mavel Fandom Early Years
+### Mavel Fandom. Early years
 * * *
 
 웨이드는 청소년기에 대해 모순된 기억을 가지고 있다. 그는 한 번, 아버지가 어머니를 버린 걸 떠올린다. 어머니가 저를 임신한 때였다. 그후 어머니는 그가 성인이 될 때까지, 그가 그녀에게 폭력을 대신 휘두를 때까지,* 그녀의 화를 그에게 풀었다. 이후 웨이드는 제가 5살이 되던 해에 어머니가 돌아가신 걸 떠올린다. 그때의 아머지는 육군 장교로 저를 학대하였고, 이로 인해 웨이드는 깡패, 범죄자로 자란다. 아버지가 웨이드를 통제하려할 때에, 웨이드의 친구 중 한 명은 그를 쏴 죽인다. 하지만 그는 작가에게, 제 아버지는 나쁜 농담을 좋아하는 사람으로 제가 어릴 적 저와 제 어머니를 버렸다고 말했다. 그의 어머니는 대체기재로 술과 인터넷 쇼핑에 빠져들었다. 그는 그의 어머니가 얼마 남지 않은 돈을 제게 쓰지 않게 하기 위해 집에서 도망친 거라고 믿었다.   
