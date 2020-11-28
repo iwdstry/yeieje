@@ -12,6 +12,9 @@ comments: false
 </center>
 <br/>
 <br/>
+## About.
+* * * 
+<br/>
 총칼 든 아기천사👶**Deadpool**👶과 관련된 **자료나 이슈** 등을 읽고 쌓아두는 곳입니다. <br/>
 근데 제가 영어를 못해서 **<span style="color:#F15F5F">💀모든 게시글에 오류가 있습니다(있을 수 X 있음 O).💀</span>**<br/>
 <mark>의미가 엄청 왜곡됐거나 내용이 아예 딴판인 걸 발견하시면</mark> **"꼭"** <mark>말씀 부탁드립니다.</mark> **꼭이요!**<br/>
