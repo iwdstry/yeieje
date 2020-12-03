@@ -1,0 +1,27 @@
+---
+title: Review
+layout: page
+excerpt: Sorted article by tags.
+---
+
+<center><div>
+  </br></br></br></br>
+<b><font size="6.9px"><i>Review. </i></b></font size>
+</div></center></br></br>
+
+
+</br>
+</br>
+DDD
+</br>
+</br>
+  {%- for post in site.tags["Review"] -%}
+    <article class="post-item" id="results-container">
+      <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <h3 class="post-item-title">
+        <a href="/yeieje/{{ post.url }}">{{ post.title }}</a>
+      </h3> 
+    </article>
+
+
+  {%- endfor -%}
