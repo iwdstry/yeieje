@@ -6,7 +6,7 @@
   text-align: center;
 
   @include media-query($on-mobile) {
-    margin-bottom: 1.5em;
+    margin-bottom: 2.5em;
   }
 
   .data-avatar {
