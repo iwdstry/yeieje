@@ -4,16 +4,9 @@ layout: page
 excerpt: Sorted article by tags.
 ---
 
-<center><div>
-  </br></br></br></br>
-<b><font size="6.9px"><i>DATA. </i></b></font size>
-</div></center></br></br>
-
-
-</br>
-</br>
-<span style='font-size:25px;'>&#9889;</span>Posts
-</br>
+<div class="data"> 
+<img class="data-avatar" src="{{ base.url }}/yeieje/assets/img/avatar2.jpg"></div>  
+<h3><span style='font-size:25px;'>&#127790;&#127904;</span>Recent Posts</h3> 
   {%- for post in site.tags["DATA"] -%}
     <article class="post-item" id="results-container">
       <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
