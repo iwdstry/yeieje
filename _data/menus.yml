@@ -10,8 +10,8 @@
   url: /yeieje/tags/
   external: false 
 
-- title: review
-  url: /yeieje/review/
+- title: category
+  url: /yeieje/category/
   external: false
   
   # set true if you using external link, see below
