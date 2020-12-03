@@ -2,11 +2,11 @@
 //data
 .data {
   margin-top: 4rem;
-  margin-bottom: 3rem;
+  margin-bottom: 3.5rem;
   text-align: center;
 
   @include media-query($on-mobile) {
-    margin-bottom: 2.5em;
+    margin-bottom: 3em;
   }
 
   .data-avatar {
