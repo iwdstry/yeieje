@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: <span style="font-size:20px">&#127804;</span>Chan # author name
-  bio:  <b>찬찬이 <font color="#F15F5F">총칼 든 아기천사</font color> 읽는 곳. </br><mark>모든 글은</mark><b><font color="#36B8CF">의역</font color></b>하는 바람에 <mark>왜곡되어 있습니다.</mark></b> # tell to the world
+  bio:  <b>찬찬이 <font color="#F15F5F">총칼 든 아기천사</font color> 읽는 곳. </br><mark>모든 글은</mark><b><font color="#36B8CF"> 의역</font color></b>하는 바람에 <mark>왜곡되어 있습니다.</mark></b> # tell to the world
   username: yeieje # general username
   github: github_yeieje # github username
   twitter: twitter_yeieje # twitter username
