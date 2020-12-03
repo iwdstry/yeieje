@@ -11,7 +11,25 @@ comments: false
 </br></br></br>
 <b><font size="6.7px"><i>Review</i></b></font size>
 </div></center>
-</br>
+</br> 
+
+{% if site.posts.size == 0 % }
+<h2> No post found </h2>
+{% endif %}
+<div>
+  {% for eachCategory in site.categories %} 
+<h2>
+ <ul class="review">
+   {% for categoryName in eachCategory[0] %}
+      {% if categoryName != null %}
+   <li>
+     <span><a href="/review/{{ categoryName }}">
+       {{ categoryName }}
+       </a></span>
+</h2>
+<% endfor %}
+   
+<ht> {{ site.categories.review }} </hi>
 {%- for post in site.posts -%}
   {%- capture current_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
   {%- unless current_year == previous_year -%}
