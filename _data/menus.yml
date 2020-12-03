@@ -6,8 +6,12 @@
   url: /yeieje/archive/
   external: false
 
-- title: tags
-  url: /yeieje/tags/
+- title: data
+  url: /yeieje/data/
+  external: false 
+
+- title: review
+  url: /yeieje/review/
   external: false 
 
   
