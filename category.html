@@ -3,6 +3,19 @@
 layout: default
 ---
 
+{%- for tag in site.categories -%}
+  {%- capture name -%}{{ category }}{%- endcapture -%}
+  <h2 id="{{ name }}">{{ name | upcase }}</h2>
+  {%- for post in site.categories[name] -%}
+    <article class="post-item" id="results-container">
+      <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <h3 class="post-item-title">
+        <a href="/yeieje/{{ post.url }}">{{ post.title }}</a>
+      </h3> 
+    </article>
+  {%- endfor -%}
+{%- endfor -%}
+
 <div class="post-list">
       {% assign category = page.title %}
       {% for post in site.categories[review] %} <!-- 카테고리 조건 -->
