@@ -9,9 +9,9 @@ excerpt: Sorted article by tags.
 <b><font size="6.9px"><i>DATA. </i></b></font size>
 </div></center></br></br>
 
-{%- for tag in site.tags["DATA/bio"] -%}
+{%- if tag in site.tags["DATA/bio"] -%}
 
-  {%- for post in site.tags["DATA/bio"] -%}
+  {%- if post in site.tags["DATA/bio"] -%}
     <article class="post-item" id="results-container">
       <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
       <h3 class="post-item-title">
@@ -20,5 +20,5 @@ excerpt: Sorted article by tags.
     </article>
 
 
-  {%- endfor -%}
-{%- endfor -%}
+  {%- endif -%}
+{%- endif -%}
