@@ -4,7 +4,7 @@ title: 언캐니 X맨. Biography 01🔆
 date: 2020-11-26
 modified: 2020-11-26
 description: .
-tag: [DATA/bio]
+tag: [DATA, bio]
 ---
 ###### [Read Original](https://uncannyxmen.net/characters/deadpool/biography/){: target="_blank"}
 <br/>
