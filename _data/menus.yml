@@ -8,7 +8,13 @@
 
 - title: tags
   url: /yeieje/tags/
-  external: false # set true if you using external link, see below
+  external: false 
+
+- title: review
+  url: /yeieje/review/
+  external: false
+  
+  # set true if you using external link, see below
 
 # Example:
 # - title: github
