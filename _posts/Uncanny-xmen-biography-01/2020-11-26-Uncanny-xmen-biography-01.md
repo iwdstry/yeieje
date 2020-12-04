@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncanny-Xmen. 데드풀 바이오그래피 01🔆
+title: Uncanny-Xmen. 데드풀 바이오그라피 01🔆
 date: 2020-11-26
 modified: 2020-11-26
 description: .
