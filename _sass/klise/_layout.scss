@@ -310,8 +310,8 @@ font-size: 3pt;
   text-align: center;
 
   @include media-query($on-mobile) {
-    margin-top: 2em;
-margin-bottom: 1em;
+    margin-top: 3em;
+margin-bottom: 0.5em;
   }
   span.footer_item {
     color: $black;
