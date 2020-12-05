@@ -4,7 +4,7 @@ home: true
 ---
 
 <h3 class="posts-item-note" aria-label="Recent Posts"><span style='font-size:25px;'>&#9889;</span>Recent Posts</h3>
-{%- for post in site.posts limit: 3 -%}
+{%- for post in site.posts limit: 2 -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
