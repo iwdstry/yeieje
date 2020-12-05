@@ -46,8 +46,8 @@ tag: [DATA, bio]
 이 버젼의 데드풀 과거는 케이블이 웨이드의 정신을 치료해줄 때까지 한동안 많은 이로부터 엄청나게 무시를 당한다. (정신이 말끔해진)데드풀은 과거에 대한 몇 가지 오류점을 지적하며 티레이에 맞서는데, 잭이 초기 웨폰 X에서의 데드풀 코스츔을 입고 있다던가, 윌슨의 고딩 여친으로 알려진 인물을 대학생이 될 때까지 만나지 못하고 있다던가 하는 것이었다. 이로서 티레이는 다른 이의 기억을 조작할 수 있는 능력이 있음을 입증하고, 데드풀은 그의 정신이 애초부터 정돈되어 있지 않았음을 입증한다. 비록 티레이가 스스로 잘못했고 거짓말을 했다고 인정하진 않았으나 웨이드 윌슨은 자신의 정체성을 확신하며 그와의 만남을 끝낸다. **[Cable & Deadpool #39]**<sup id="5">[[5]](#5-ref)</sup>
 <br/><br/><br/>
 <small id="5-ref"><sup>[[5]](#5)</sup><img src="https://github.com/iwdstry/yeieje/blob/master/_posts/Uncanny-xmen-biography-01/deadpool01.jpg?raw=true" width="300px">
- <img src="{{ site.baseurl }}/deadpool01.jpg" width="300px">
- <img src="{{ site.url }}{{ site.baseurl }}/deadpool01.jpg" width="300px">
+ <img src="{{site.baseurl}}/deadpool01.jpg" width="300px">
+ <img src="{{site.url}}{{site.baseurl}}/deadpool01.jpg" width="300px">
 <br/>
 다행스럽게도, 이 시점에서 웨이드의 기억은 대개는 회복되어 정신도 말끔한 상태다. 이후 어떤 상황이 오든, 다시는 그의 과거 그리고 출신에 대해서 혼란은 없을 것이다.
 <br/>
