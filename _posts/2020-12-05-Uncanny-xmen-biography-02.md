@@ -15,7 +15,6 @@ tag: [DATA, bio]
 <small id="f-ref"><sup>[[1]](#f)</sup> 돈 받고 총 쏴서 사람 죽이는 사람. 용병이랑 비슷. </small><br/>
 <small id="2-ref"><sup>[[2]](#2)</sup> 다른 사이트에서는 대개 위계질서, 강압적인 관계를 이겨내지 못하고 나왔었다. </small><br/>
 <small id="3-ref"><sup>[[3]](#3)</sup> Deadpool was still allowed to get away with calling Bullseye "rookie."  해석안돼서 대충 때려뭉겜. </small><br/>
-
 <br/><br/>
 > <small> **Note:** 데드풀(세 번째 시리즈) 이슈 26에 따르면, 웨이드는 타임라인상 특수부대에 있는 동안인데 그때에 암 진단을 받는 기억을 경험한다. 그리고 그 사이 용병으로서의 경력 없이 바로 웨폰 X 프로그램에 참여한다.  이것은 그간 그의 다른 모든 이야기들과 상충된다. 따라서 이건 버틀러가 심어놓은 기억이라고 추측할 수 있겠다. </small>
 
