@@ -311,6 +311,7 @@ font-size: 3pt;
 
   @include media-query($on-mobile) {
     margin-top: 2em;
+margin-bottom: 1em;
   }
   span.footer_item {
     color: $black;
