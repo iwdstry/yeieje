@@ -7,7 +7,7 @@ description: .
 tag: [Review]
 ---
 
-###### Deadpool & Death annual, 1999
+###### Deadpool & Death annual, 1998
 
 <br/><br/>
 ## 웜
