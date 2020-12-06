@@ -38,5 +38,5 @@ tag: [Review]
 
 
 
-<small id="1-ref"><sup>[[1]](#1)</sup> **whatculture.com.(https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"}** </small> <br/>
+<small id="1-ref"><sup>[[1]](#1)</sup> **[whatculture.com.](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"}** </small> <br/>
 <small id="1-ref"><sup>[[2]](#1)</sup>
