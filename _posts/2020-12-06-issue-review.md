@@ -30,8 +30,7 @@ tag: [Review]
 
 <br/>
 * * *
-<center>
-![ajax](https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425) </center>
+![ajax](https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425)
 > <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 룰을 어겨 특히 가깝게 지낸 동료를 안락사하게 만든다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="2">[[2]](#2-ref)</sup>
 
 ![image](https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg)
@@ -39,8 +38,7 @@ tag: [Review]
 <br/> -그렇게 만들어 보세요, 성 프란시스 the 기집애 님(saint francis of da sissy)<br/>
 <br/>울버린은 세브레투스. 캡틴 아메리카는 레드 스컬. 토르는 로키. 데드풀은..?
 데드풀은 우스꽝스러운 걸로 유명할 테지만, 그의 서사는 그렇지 않다. 
-당신이 알고 있듯, 티레이가 정답일 것이다. 하지만 위협적인 이 창백한 남자는 영화에서는 그다지 나쁘게 나오진 않는다.  
-대신 영화는 웨이드 윌슨이 데드풀이 되기까지 큰 역할을 하는 인물을 그린다: 아약스다.
+당신이 알고 있듯, 티레이가 정답일 것이다. 하지만 위협적인 이 창백한 남자는 영화에서는 그다지 나쁘게 나오진 않는다. 대신 영화는 웨이드 윌슨이 데드풀이 되기까지 큰 역할을 하는 인물을 그린다: 아약스다.
 <br/><br/>스포없이 얘기하자면 아약스는 스피드가 강화된 인물로, 데드풀에게 엄청난 신체적, 정신적 고통을 안겨준다. 
 그는 웨이드를 고문하는 걸 즐기며 웨이드의 탄생에 큰 롤을 제공한다. 
 몇몇의 빌런들은 그들만의 히스토리가 겹겹이 있으나 아약스는 그냥 좋지 않은 녀석이다. 
