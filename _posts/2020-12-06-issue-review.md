@@ -30,8 +30,15 @@ tag: [Review]
 
 <br/>
 * * *
-![ajax](https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425)
+<center>
+![ajax](https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425)</center>
 > <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 룰을 어겨 특히 가깝게 지낸 동료를 안락사하게 만든다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="2">[[2]](#2-ref)</sup>
+
+<br/>이거 이슈 제목이 Death인 것부터 알 수 있듯이, 웨이드의 가장 특징적인 게 죽음을 본다라는 거라 생각하는데 그걸 볼 수 있게 된 계기가 프란시스라는., 그런., ....심장뛰는., 관계.. 
+
+거기다가 프란시스는 복수하기 위해 데드풀 때문에 그 많은 사람을 죽이ㄴ... 어떡할래.,.,.,. 이 피보다 찐한 관계.,.,.,.,. 글고 언캐니 바이오에서 프란시스 기본 설정이 **잘생김** 이래서 혼자 존나, 하 미치겠다.., 존잘남과 추남.., 이건 된다..., 되는 주식이다.., 하고 앉았음. 
+
+<br/>프란시스는 웨이드를 찾아내려고 킬러브루를 고문해서 웨이드를 불러낸다. 어캐 가능한 거였냐면 킬러브루가 웨이드 컴터를 스캐닝할 수 있었음.<sup id="3">[[3]](#3-ref)</sup> 데드풀이 가진 텔레포트를 작동하게 해서 강제로 불러낸? 뭐 그런 거ㅇㅇ. 그래서 Deadpool & Death annual 보면 첫장면이 웨이드가 어디 절벽에서 떨어지는 장면으로 시작한다. 에이젝스와의 재회를 두고 둘의 진한 과거가 풀린 거래야 하나? 구성이 대충 뭐 그런? ㅇㅇ.<br/>
 
 ![image](https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg)
 > <small> -전부 다 닥쳐!
@@ -42,24 +49,20 @@ tag: [Review]
 <br/><br/>스포없이 얘기하자면 아약스는 스피드가 강화된 인물로, 데드풀에게 엄청난 신체적, 정신적 고통을 안겨준다. 
 그는 웨이드를 고문하는 걸 즐기며 웨이드의 탄생에 큰 롤을 제공한다. 
 몇몇의 빌런들은 그들만의 히스토리가 겹겹이 있으나 아약스는 그냥 좋지 않은 녀석이다. 
-육체적으로 강화된 이 적은, 웨이드 윌슨이 데드풀이 되는 데에 큰 부분을 차지한다.</small>
-
-<br/>이거 이슈 제목이 Death인 것부터 알 수 있듯이, 웨이드의 가장 특징적인 게 죽음을 본다라는 거라 생각하는데 그걸 볼 수 있게 된 계기가 프란시스라는., 그런., ....심장뛰는., 관계.. 
-
-거기다가 프란시스는 복수하기 위해 데드풀 때문에 그 많은 사람을 죽이ㄴ... 어떡할래.,.,.,. 이 피보다 찐한 관계.,.,.,.,. 글고 언캐니 바이오에서 프란시스 기본 설정이 **잘생김** 이래서 혼자 존나, 하 미치겠다, 존잘남과 추남, 이건 된다, 되는 주식이다, 하고 앉았음. 
-
-<br/>프란시스는 웨이드를 찾아내려고 킬러브루를 고문해서 웨이드를 불러낸다. 어캐 가능한 거였냐면 킬러브루가 웨이드 컴터를 스캐닝할 수 있었음.<sup id="3">[[3]](#3-ref)</sup> 데드풀이 가진 텔레포트를 작동하게 해서 강제로 불러낸? 뭐 그런 거ㅇㅇ. 그래서 Deadpool & Death annual 보면 첫장면이 웨이드가 어디 절벽에서 떨어지는 장면으로 시작한다. 에이젝스와의 재회를 두고 둘의 진한 과거가 풀린 거래야 하나? 구성이 대충 뭐 그런? ㅇㅇ. 
+육체적으로 강화된 이 적은, 웨이드 윌슨이 데드풀이 되는 데에 큰 부분을 차지한다.</small></small><sup id="4">[[4]](#4-ref)</sup>
 
 <br/>결국 데스와 풀이의 만남이 가능했던 건 존잘남이지만 미친놈인 프란시스였다는 사실에 오늘도 심장이 도덕을 모르고 뛰는중.. 여기서 이렇게 끝나서 뒷 이슈에서 대판 싸우던데 기대됭..,. 신난당.. 
 
+
 <br/>
-암튼 근데 진짜 Deadpool & Death에는 얘 트라우마를 형성하는 그런 것들이 다 나와있고, 막 실험, 바늘, 한손으로 집어던지고 아 그런거 막 나오고 실험때메 애는 대머리되고 ㅠㅠ ㅈㅉ 너무 좋았고..(?) 풀이 찌통 서사 좋아하는 나에게 찰떡이엇당ㅠㅠ 냠냠긋 ㅠㅜ~
+근데 사실 이것들말고 Deadpool & Death에 데드풀을 트라우마를 형성하는 그런 것들이 다 나와있고, 막 실험, 바늘, 한손으로 집어던지고 아 그런거 막 나오고 실험때메 애는 대머리되고 ㅠㅠ ㅈㅉ 너무 좋았냄..(?) 무엇보다 풀이 독백들이 하나같이 다 짠내나서 찌통 서사 좋아하는 나에게 찰떡이엇당ㅠㅠ 냠냠긋 ㅠㅜ 
 <br/>
 <br/>
 <br/>
 
 * * * 
-<small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com.](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
-<small id="2-ref"><sup>[[2]](#2)</sup> [en.wikipedia.org.](https://en.wikipedia.org/wiki/Francis_Fanny){: target="_blank"} </small> <br/>
+<small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
+<small id="2-ref"><sup>[[2]](#2)</sup> [en.wikipedia.org](https://en.wikipedia.org/wiki/Francis_Fanny){: target="_blank"} </small> <br/>
 <small id="3-ref"><sup>[[3]](#3)</sup> [uncannyxmen.net](https://uncannyxmen.net/comics/issue/deadpool-2nd-series-17){: target="_blank"} </small> <br/>
+<small id="4-ref"><sup>[[4]](#4)</sup> [liveaboutdotcom](https://www.liveabout.com/deadpool-comics-to-read-before-seeing-movie-2308558){: target="_blank"} </small> <br/>
 <br/><br/>
