@@ -30,13 +30,26 @@ tag: [Review]
 
 <br/>
 * * *
-![image](https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/top-crop/width/360/height/450?cb=20170126040425)
+![ajax](https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/top-crop/width/360/height/450?cb=20170126040425)
 > <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 룰을 어겨 특히 가깝게 지낸 동료를 안락사하게 만든다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="2">[[2]](#2-ref)</sup>
 
+![image](https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg)
+> <small> 전부 다 닥쳐! / 그렇게 만들어 보세요, 성 프란시스 the 기집애 님(saint francis of the sissy)</small>
+> <small> 울버린은 세브레투스. 캡틴 아메리카는 레드 스컬. 토르는 로키. 데드풀은..?
+데드풀은 아마 우스꽝스러운 걸로 유명할 테지만, 그의 서사는 그렇지 않다. 
+당신이 알고 있듯, 티레이가 정답일 것이다. 하지만 위협적인 이 창백한 남자는 영화에서는 그다지 나쁘게 나오진 않는다.  
+대신 영화는 웨이드 윌슨이 데드풀이 되기까지 큰 역할을 하는 인물을 그린다: 아약스다. 
+
+스포없이 얘기하자면 아약스는 스피드가 특화된 인물로, 데드풀에게 엄청난 신체적, 정신적 고통을 안겨준다. 
+그는 웨이드를 고문하는 걸 즐기며 웨이드의 기원에 큰 롤을 제공한다. 
+한동안 아약스에게 신체적으로는 해를 끼칠 수 없었다. 그래서 웨이드는 그를 괴롭힐 방법을 찾는다. 
+몇몇의 빌런들은 그들만의 히스토리가 겹겹이 있으나 아약스는 그냥 좋지 않은 녀석이다. 
+육체적으로 강화된 이 적은, 웨이드 윌슨이 데드풀이 되는 데에 큰 부분을 차지한다. 
+and this character-defining dynamic takes up a good portion of the annual issue. It also reveals why Wade Wilson is called Deadpool!</small>
 
 <br/>이거 이슈 제목이 Death인 것부터, 웨이드의 가장 특징적인 게 죽음을 본다라는 거인데 그걸 볼 수 있게 된 계기가 프란시스라는., 그런., 심장뛰는., 관계.. 
 
-거기다가 프란시스는 또 복수하기 위해 살아남아서., 데드풀 때문에 그 많은 사람을 죽이ㄴ... 어떡할래.,.,.,. 이 피보다 찐한 관계.,.,.,.,. 글고 언캐니 바이오에서 프란시스 기본 설정이 >잘생김<이래서 혼자 존나, 하 미치겠다, 존잘남과 추남, 이건 된다, 되는 주식이다, 하고 앉았음. 
+거기다가 프란시스는 또 복수하기 위해 살아남아서., 데드풀 때문에 그 많은 사람을 죽이ㄴ... 어떡할래.,.,.,. 이 피보다 찐한 관계.,.,.,.,. 글고 언캐니 바이오에서 프란시스 기본 설정이 **잘생김** 이래서 혼자 존나, 하 미치겠다, 존잘남과 추남, 이건 된다, 되는 주식이다, 하고 앉았음. 
 
 프란시스는 웨이드를 찾아내려고 킬러브루를 고문해서 웨이드를 불러낸다. 어캐 가능한 거였냐면 킬러브루가 웨이드 컴터를 스캐닝할 수 있었음.<sup id="3">[[3]](#3-ref)</sup> 데드풀이 가진 텔레포트를 작동하게 해서 강제로 불러낸? 뭐 그런 거ㅇㅇ. 그래서 Deadpool & Death annual 보면 첫장면이 웨이드가 어디 절벽에서 떨어지는 장면으로 시작한다. 에이젝스와의 재회를 두고 둘의 진한 과거가 풀린 거래야 하나? 구성이 대충 뭐 그런? ㅇㅇ. 그러니까 결국 데스와 풀이의 만남이 가능했던 건 존잘남이지만 미친놈인 프란시스였다는 사실에 오늘도 심장이 도덕을 모르고 뛰는중.. 여기서 이렇게 끝나서 뒷 이슈에서 대판 싸우던데 기대됭..,. 신난당.. 
 
