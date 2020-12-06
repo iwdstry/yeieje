@@ -39,6 +39,7 @@ tag: [Review]
 
 <br/>프란시스는 웨이드를 찾아내려고 킬러브루를 고문해서 웨이드를 불러낸다. 어캐 가능한 거였냐면 킬러브루가 웨이드 컴터를 스캐닝할 수 있었음.<sup id="3">[[3]](#3-ref)</sup> 데드풀이 가진 텔레포트를 작동하게 해서 강제로 불러낸? 뭐 그런 거ㅇㅇ. 그래서 Deadpool & Death annual 보면 첫장면이 웨이드가 어디 절벽에서 떨어지는 장면으로 시작한다. 에이젝스와의 재회를 두고 둘의 진한 과거가 풀린 거래야 하나? 구성이 대충 뭐 그런? ㅇㅇ.<br/>
 
+<br/>
 ![image](https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg)
 > <small> -전부 다 닥쳐!
 <br/> -그렇게 만들어 보세요, 성 프란시스 the 기집애 님(saint francis of da sissy)<br/>
@@ -48,7 +49,7 @@ tag: [Review]
 <br/><br/>스포없이 얘기하자면 아약스는 스피드가 강화된 인물로, 데드풀에게 엄청난 신체적, 정신적 고통을 안겨준다. 
 그는 웨이드를 고문하는 걸 즐기며 웨이드의 탄생에 큰 롤을 제공한다. 
 몇몇의 빌런들은 그들만의 히스토리가 겹겹이 있으나 아약스는 그냥 좋지 않은 녀석이다. 
-육체적으로 강화된 이 적은, 웨이드 윌슨이 데드풀이 되는 데에 큰 부분을 차지한다.</small></small><sup id="4">[[4]](#4-ref)</sup>
+육체적으로 강화된 이 적은, 웨이드 윌슨이 데드풀이 되는 데에 큰 부분을 차지한다.</small><sup id="4">[[4]](#4-ref)</sup>
 
 <br/>결국 데스와 풀이의 만남이 가능했던 건 존잘남이지만 미친놈인 프란시스였다는 사실에 오늘도 심장이 도덕을 모르고 뛰는중.. 여기서 이렇게 끝나서 뒷 이슈에서 대판 싸우던데 기대됭..,. 신난당.. 
 
