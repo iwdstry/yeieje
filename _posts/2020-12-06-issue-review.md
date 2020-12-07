@@ -70,6 +70,6 @@ tag: [Review]
 * * * 
 <small id="0-ref"><sup>[[0]](#0)</sup> [amazon.com](https://www.amazon.com/Deadpool-Death-Annual-1997-2002-ebook/dp/B00ZMVL8XU/ref=sr_1_1?dchild=1&keywords=deadpool+and+death+annual&qid=1607313670&sr=8-1){: target="_blank"} 미리보기</small><br/>
 <small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
-<small id="2-ref"><sup>[[2]](#2)</sup> [en.wikipedia.org](https://en.wikipedia.org/wiki/Francis_Fanny){: target="_blank"} </small> <br/>
+<small id="2-ref"><sup>[[2]](#2)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
 <small id="4-ref"><sup>[[4]](#4)</sup> [liveaboutdotcom](https://www.liveabout.com/deadpool-comics-to-read-before-seeing-movie-2308558){: target="_blank"} </small> <br/>
 <br/><br/>
