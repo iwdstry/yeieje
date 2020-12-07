@@ -45,8 +45,7 @@ tag: [Review]
 
 거기다가 프란시스는 복수하기 위해 데드풀 때문에 그 많은 사람을 죽이ㄴ... 어떡할래.,.,.,. 이 피보다 찐한 관계.,.,.,.,. 글고 언캐니 바이오에서 프란시스 기본 설정이 **잘생김** 이래서 혼자 존나, 하 미치겠다.., 존잘남과 추남.., 이건 된다..., 되는 주식이다.., 하고 앉았음. 
 
-<br/>프란시스는 웨이드를 찾아내려고 킬러브루를 고문해서 웨이드를 불러낸다. 어캐 가능한 거였냐면 킬러브루가 웨이드 컴터를 스캐닝할 수 있었음.<sup id="3">[[3]](#3-ref)</sup> 데드풀이 가진 텔레포트를 작동하게 해서 강제로 불러낸? 뭐 그런 거ㅇㅇ. 그래서 Deadpool & Death annual 보면 첫장면이 웨이드가 어디 절벽에서 떨어지는 장면으로 시작한다. 에이젝스와의 재회를 두고 둘의 진한 과거가 풀린 거래야 하나? 구성이 대충 뭐 그런? ㅇㅇ.<br/>
-
+<br/>
 <br/>
 ![image](https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg)
 > <small> -전부 다 닥쳐!
@@ -72,6 +71,5 @@ tag: [Review]
 <small id="0-ref"><sup>[[0]](#0)</sup> [amazon.com](https://www.amazon.com/Deadpool-Death-Annual-1997-2002-ebook/dp/B00ZMVL8XU/ref=sr_1_1?dchild=1&keywords=deadpool+and+death+annual&qid=1607313670&sr=8-1){: target="_blank"} 미리보기</small><br/>
 <small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
 <small id="2-ref"><sup>[[2]](#2)</sup> [en.wikipedia.org](https://en.wikipedia.org/wiki/Francis_Fanny){: target="_blank"} </small> <br/>
-<small id="3-ref"><sup>[[3]](#3)</sup> [uncannyxmen.net](https://uncannyxmen.net/comics/issue/deadpool-2nd-series-17){: target="_blank"} </small> <br/>
 <small id="4-ref"><sup>[[4]](#4)</sup> [liveaboutdotcom](https://www.liveabout.com/deadpool-comics-to-read-before-seeing-movie-2308558){: target="_blank"} </small> <br/>
 <br/><br/>
