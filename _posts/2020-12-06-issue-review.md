@@ -71,6 +71,7 @@ Deadpool $ Death는 데드풀이 데쓰를 만나게 됐을 때의 이야기라 
 <br/>
 
 * * * 
+<small id="0-ref"><sup>[[0]](#0)</sup> [amazon.com](https://www.amazon.com/Deadpool-Death-Annual-1997-2002-ebook/dp/B00ZMVL8XU/ref=sr_1_1?dchild=1&keywords=deadpool+and+death+annual&qid=1607313670&sr=8-1) 미리보기</small><br/>
 <small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
 <small id="2-ref"><sup>[[2]](#2)</sup> [en.wikipedia.org](https://en.wikipedia.org/wiki/Francis_Fanny){: target="_blank"} </small> <br/>
 <small id="3-ref"><sup>[[3]](#3)</sup> [uncannyxmen.net](https://uncannyxmen.net/comics/issue/deadpool-2nd-series-17){: target="_blank"} </small> <br/>
