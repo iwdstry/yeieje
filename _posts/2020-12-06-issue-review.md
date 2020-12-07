@@ -39,7 +39,7 @@ tag: [Review]
 
 <br/><br/>
 * * *
-<p align="center"><img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis"></p>
+<p align="center"><img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" width="300"></p>
 
 > <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 가깝게 지낸 동료를 안락사하게 만들어 룰을 어기게끔 한다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="2">[[2]](#2-ref)</sup>
 
