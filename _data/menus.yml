@@ -1,16 +1,16 @@
-- title: home
+- title: 홈
   url: "https://iwdstry.github.io/yeieje"
   external: false
 
-- title: data
+- title: 자료
   url: /yeieje/data/
   external: false 
 
-- title: review
+- title: 감상
   url: /yeieje/review/
   external: false 
 
-- title: archive
+- title: 아카이브
   url: /yeieje/archive/
   external: false
   
