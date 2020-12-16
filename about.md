@@ -15,8 +15,8 @@ comments: false
 # *About*
 * * * 
 <br/>
-총칼 든 아기천사👶**Deadpool**👶과 관련된 **<span style="color:#3DB7CC">자료나 이슈</span>** 등을 읽고 쌓아두는 곳입니다. <br/>
-자료는 **마블/엑스맨 팬사이트, 관련 기사** 그런 것들? <br/>
+총칼 든 아기천사👶**<span style="color:#F15F5F">Deadpool</span>**👶과 관련된 **<span style="color:#3DB7CC">자료나 이슈</span>** 등을 읽고 쌓아두는 곳입니다. <br/>
+자료는 **<span style="color:#3DB7CC">마블/엑스맨 팬사이트, 관련 기사</span>** 그런 것들? <br/>
 그래서 읽은 것들 출처는 확실해도 출처의 신빙성은 확신할 수가 없습니다..<br/>
 그래도 팬페이지는 나름 큰 팬페이지만 보는 중!<br/><br/>
 
