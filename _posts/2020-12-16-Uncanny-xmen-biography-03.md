@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Uncanny-Xmen. 바이오그래피 03🔆
-date: 2020-12-05
-modified: 2020-12-05
+date: 2020-12-16
+modified: 2020-12-16
 description: .
 tag: [DATA, bio]
 ---
