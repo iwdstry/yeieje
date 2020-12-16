@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncanny-Xmen. 바이오그래피 02
+title: Uncanny-Xmen. 바이오그래피 02🔆
 date: 2020-12-05
 modified: 2020-12-05
 description: .
