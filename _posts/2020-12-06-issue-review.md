@@ -10,7 +10,7 @@ tag: [Review]
 ###### Deadpool & Death annual, 1998
 
 <br/><br/>
-<p align="center"><img src="{{ base.url }}/yeieje/_pstimg/read1.jpg" alt="read1"></p>
+<p align="center"><img src="https://github.com/iwdstry/yeieje/blob/master/_pstimg/read1.jpg?raw=true" alt="read1"></p>
 
 
 <br/>
