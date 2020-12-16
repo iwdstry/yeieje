@@ -13,17 +13,17 @@ tag: [Review]
 <p align="center"><img src="https://github.com/iwdstry/yeieje/blob/master/_pstimg/read1.jpg?raw=true" alt="read1"></p>
 
 
-> <small> "몇 사람들은", 일반적으로 알고 있듯이, "운이 좋다". 우리가 사는 세상이 만약 균형으로 이루어진 곳이라면, 다음 문장이 따라 올 거다. 다른 몇 사람들은, 재수가 없다. 웨이드 윌슨을 만나보자. 파트 타임으로는 용병이고, 풀 타임으로는 재수가 없는 사람. 평화롭게 낙하하는 짧은 순간, 데드풀은 종합해보려 애썼다. 이번엔 또 왜 일이 틀어졌을까. 방금 전까지만 해도 그는 샌프란시스코의 제 집에 서 있었다. 
+> <small> "몇 사람들은", 일반적으로 알고 있듯이, "운이 좋다". 우리가 사는 세상이 만약 균형으로 이루어진 곳이라면, 다음 문장이 따라 올 거다. 다른 몇 사람들은, 재수가 없다. 웨이드 윌슨을 만나보자. 파트 타임으로는 용병이고, 풀 타임으로는 재수가 없는 사람. 평화롭게 낙하하는 짧은 순간, 데드풀은 종합해보려 애썼다. 이번엔 또 왜 일이 틀어졌을까. 방금 전까지만 해도 그는 샌프란시스코의 제 집에 서 있었다.<sup id="1">[[1]](#1-ref)</sup>
 
 
-<br/>Deadpool & Death는 데드풀이 데쓰를 만나게 됐을 때의 이야기라 찌통짠내 과거씬이 나온다. 내가 짠내풀 좋아한다고 해서 트칭긔님이 추천해주셨던 거! ㅎㅎ 웨이드가 윗짤<sup id="0">[[0]](#0-ref)</sup>처럼 느닷없이 자기도 모르게 절벽에서 떨어지면서 시작하는데, 거기서 과거가 나오고 다시 현실로 오는? 그런? 액자식 구성ㅇㅇ. 읽으면 왜 액자식 구성으로 된지 알 수 있다. 아 그리고 유령들이 나와서 여기 세계랑 저기 세계 사이에 갇혔다는 얘기 같은 것도 하는데 그게 이승, 저승 개념 같고 그 뭐래야 하지, 암튼 구천에 묶여서 떠도는 그런 거처럼 보여서ㅋㅋㅋ 걍 혼자 보다가 쳐웃음 ㅋㅋㅋ
+<br/>Deadpool & Death는 데드풀이 데쓰를 만나게 됐을 때의 이야기라 찌통짠내 과거씬이 나온다. 내가 짠내풀 좋아한다고 해서 트칭긔님이 추천해주셨던 거! ㅎㅎ 웨이드가 윗짤처럼 느닷없이 자기도 모르게 절벽에서 떨어지면서 시작하는데, 거기서 과거가 나오고 다시 현실로 오는? 그런? 액자식 구성ㅇㅇ. 읽으면 왜 액자식 구성으로 된지 알 수 있다. 아 그리고 유령들이 나와서 여기 세계랑 저기 세계 사이에 갇혔다는 얘기 같은 것도 하는데 그게 이승, 저승 개념 같고 그 뭐래야 하지, 암튼 구천에 묶여서 떠도는 그런 거처럼 보여서ㅋㅋㅋ 걍 혼자 보다가 쳐웃음 ㅋㅋㅋ
 
 <br/><br/>
 * * * 
 <p align="center"><img src="https://cdn3.whatculture.com/images/2016/02/Deadpool-Worm.jpg" alt="worm"></p>
 
 > <small> -버텨, 웨이드! 지금 멈추지 마! 니가 바꿀 수 있다는 걸 넌 믿어야 해! 이건 네 잘못이 아니야! <br/>난 널 알게 돼서 자랑스러워!<br/><br/>
-> 웨폰 X 프로그램에는 울버린만큼 뮤턴트가 많이 나오진 않는다: 풀, 에이젝스, 엔젤 더스트, 매로와 가까운 서브 캐릭터, 그게 전부다. 실은 커닝햄이라는 인물도 있다. 웨이드의 옆에서 함께 고문을 받던 또 다른 시험 대상자인데, 그의 이름은 다른 코믹스들과 그닥 연결되진 않는다(몇몇의 일회성 캐릭터들이 그와 같은 성을 가지고 있긴 하지만 확실히 그라고 언급할 수 있는 인물은 없다). 커닝햄은 사실 웜과 연결될 수 있다. 조 켈리에 의해 그려진 인물로 킬러브루 아래서 희생당한 데드풀의 동료 중 하나이다. 비록 영화에서 킬러브루는 에이젝스로 대체되고, 웜 또한 사이버틱 임플란트가 아닌 그저 충혈된 눈만을 가지고 있긴 하지만 그가 여기 포함되었다는 건 영화에서 스토리적 영향력을 가지고 있음을 인정하는 것이다.</small><sup id="1">[[1]](#1-ref)</sup> 
+> 웨폰 X 프로그램에는 울버린만큼 뮤턴트가 많이 나오진 않는다: 풀, 에이젝스, 엔젤 더스트, 매로와 가까운 서브 캐릭터, 그게 전부다. 실은 커닝햄이라는 인물도 있다. 웨이드의 옆에서 함께 고문을 받던 또 다른 시험 대상자인데, 그의 이름은 다른 코믹스들과 그닥 연결되진 않는다(몇몇의 일회성 캐릭터들이 그와 같은 성을 가지고 있긴 하지만 확실히 그라고 언급할 수 있는 인물은 없다). 커닝햄은 사실 웜과 연결될 수 있다. 조 켈리에 의해 그려진 인물로 킬러브루 아래서 희생당한 데드풀의 동료 중 하나이다. 비록 영화에서 킬러브루는 에이젝스로 대체되고, 웜 또한 사이버틱 임플란트가 아닌 그저 충혈된 눈만을 가지고 있긴 하지만 그가 여기 포함되었다는 건 영화에서 스토리적 영향력을 가지고 있음을 인정하는 것이다.</small><sup id="2">[[2]](#2-ref)</sup> 
 
 
 <br/>
@@ -44,7 +44,7 @@ tag: [Review]
 * * *
 <p align="center"><img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" width="300"></p>
 
-> <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 가깝게 지낸 동료를 안락사하게 만들어 룰을 어기게끔 한다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="2">[[2]](#2-ref)</sup>
+> <small>웨이드를 끝없이 고문한 후 프란시스는 킬러브루에게 웨이드를 죽일 수 있는 허락을 받는다. 프란시스는 상황을 조작하여, 웨이드가 가깝게 지낸 동료를 안락사하게 만들어 룰을 어기게끔 한다. 프란시스가 윌슨의 심장을 제거한 후, 처음으로 웨이드의 힐링팩터는 웨이드의 새로운 심장을 만들어냄으로써 그 힘을 드러낸다. 하지만 일련의 사건들은 웨이드의 이성을 잃게 만든다. 닉네임을 Deadpool이라 지은 윌슨은 사람들을 죽이며 프란시스까지 죽인 듯했다. 살아남은 프란시스는 아약스(에이젝스)라는 이름으로 다시 등장한다. 그는 웨폰 X 프로그램에서 살아남은 사람들을 많이 죽였는데, 데드풀에 복수하기 위해서였다. </small><sup id="3">[[3]](#3-ref)</sup>
 
 <br/>이거 이슈 제목이 Death인 것부터 알 수 있듯이, 웨이드의 가장 특징적인 게 죽음을 본다라는 거라 생각하는데 그걸 볼 수 있게 된 계기가 프란시스라는., 그런., ....심장뛰는., 관계.. 글고 언캐니 바이오에서 프란시스 기본 설정이 **잘생김** 이래서 혼자 존나, 하 미치겠다.., 존잘남과 추남.., 이건 된다..., 되는 주식이다.., 하고 앉았었음. 
 
@@ -74,8 +74,8 @@ tag: [Review]
 <br/>
 
 * * * 
-<small id="0-ref"><sup>[[0]](#0)</sup> [amazon.com](https://www.amazon.com/Deadpool-Death-Annual-1997-2002-ebook/dp/B00ZMVL8XU/ref=sr_1_1?dchild=1&keywords=deadpool+and+death+annual&qid=1607313670&sr=8-1){: target="_blank"} 미리보기</small><br/>
-<small id="1-ref"><sup>[[1]](#1)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
-<small id="2-ref"><sup>[[2]](#2)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
+<small id="1-ref"><sup>[[1]](#1)</sup> [amazon.com](https://www.amazon.com/Deadpool-Death-Annual-1997-2002-ebook/dp/B00ZMVL8XU/ref=sr_1_1?dchild=1&keywords=deadpool+and+death+annual&qid=1607313670&sr=8-1){: target="_blank"} 미리보기</small><br/>
+<small id="2-ref"><sup>[[2]](#2)</sup> [whatculture.com](https://whatculture.com/film/deadpool-10-obscure-references-you-probably-missed?page=8){: target="_blank"} </small> <br/>
+<small id="3-ref"><sup>[[3]](#3)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
 <small id="4-ref"><sup>[[4]](#4)</sup> [liveaboutdotcom](https://www.liveabout.com/deadpool-comics-to-read-before-seeing-movie-2308558){: target="_blank"} </small> <br/>
 <br/><br/>
