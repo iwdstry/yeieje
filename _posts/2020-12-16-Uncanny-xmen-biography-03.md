@@ -32,8 +32,9 @@ tag: [DATA, bio]
 <br/>
 웨이드는 또한 시카고에 있는 위즐의 근처 지역용병샵에서 자리를 잡는다. 헬하우스라는 곳이었다. 윌슨은 헬하우스의 오너이자 용병직 최고 파견인인 Patch와 애증 관계를 맺는다. 데드풀은 헬하우스에 top dog라는 곳을 스스로 설립하고는 다른 용병들을 위협하거나 제 힘을 과시하기도 했다. 그는 몇몇과는 친한 관계를 가진다. Fenway CF와 물론 Weasel이었다. 또한 라이벌이나 증오의 관계를 맺기도 하는데, T레이라는 용병이었다. 비록 이 라이벌 관계는... 시간이 지나면서 약간 논쟁의 여지를 가지긴 하지만 말이다. **[Deadpool (2nd series) #1-2]** 데드풀은 인터폴 시절 Almadovar를 공격하는 등 몇 년 간 여러 임무를 수행한다.<sup id="2">[[2]](#2-ref)</sup>* **[Deadpool (1st series) #2]**
 
-<br/><small id="2-ref"><sup>[[2]](#2)</sup>such as a hit on Almadovar where he crossed paths with Sean Cassidy during his Interpol days </small><br/>
+<small id="2-ref"><sup>[[2]](#2)</sup>such as a hit on Almadovar where he crossed paths with Sean Cassidy during his Interpol days </small><br/>
 
+<br/>
 <br/>
 그는 Herors for hire<sup id="3">[[3]](#3-ref)</sup>로 일을 하려고 한다. 파워맨과 아이언피스트의 새로운 파트너로 일하기를 제안한 것이다. 그들은 데드풀과 아무 것도 하고 싶어하지 않았으나, 웨이드는 화이트맨의 건달짓<sup id="4">[[4]](#4-ref)</sup>으로부터 카마초 여사의 가게를 보호해주겠다고 나선다. 하지만 데드풀은 카멜리타 카마초와 함께 화이트맨에게 붙잡힌다. 가게 주인의 어리지만-법적으로는 성인인<sup id="5">[[5]](#5-ref)</sup>-딸이었다. 루크와 피스트가 (내키지는 않지만)데드풀을 구하러 오기 전, 웨이드와 카멜리타는 화이트맨의 풀장 테이블에서 사랑을 나눈다. 화이트맨은 상대를 돌로 변신시키는 그의 화이트 파워 지팡이로 인해 스스로 돌로 변하고, 웨이드는 가게를 무사히 구한다. 하지만 그는 카멜리타와의 관계에서 행복을 찾진 못한다. 그녀가 그의 맨얼굴을 역겨워했기 때문이었다. 카마초 모녀에게 거절당한 웨이드는 그들과 그리고 heroes for hire에서 떠난다. **[Deadpool (4th series) #13]**
 
