@@ -11,7 +11,8 @@ comments: false
  <img src="https://user-images.githubusercontent.com/74714697/100357357-e9df6b80-3037-11eb-9cdb-fd243f2cb191.png" width="150px" height="150px">
 </center>
 <br/>
-# *About.*
+
+# *About*
 * * * 
 <br/>
 총칼 든 아기천사👶**Deadpool**👶과 관련된 **<span style="color:#3DB7CC">자료나 이슈</span>** 등을 읽고 쌓아두는 곳입니다. <br/>
