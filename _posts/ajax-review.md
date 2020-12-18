@@ -19,7 +19,10 @@ tag: [REVIEW]
 <br/>내가 사실 딱히 게시글 제목을 대사로 쓸 생각은 없었는데, 찾다가 보니 영화에서 에이젝스가 데드풀한테 하는 대표적급인 대사가: What's my name? 이래서. 아 나 진짜 ㅋ ㅋ ㅋㅋㅋ 아니 믜친 영화 보긴 했는데 대사 너!뭐! 줘!와!! 해서 굳이 코믹스에서도 대사를 찾아본 거ㅋㅋ 근데 저런 이름에 집착하는 대사 코믹스에선? 1도, 0.1도 안 하더라고 한다고 한다.. 눈물. 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보임. 이제 이름 같은 건 필요 없고 너(의 죽음)만이 관심 있다는 그런 걸까. ㅎㅎ 농담.  
 
 <br/><br/>
-> <small> 살아남은 프란시스는 몇 년 후 에이젝스로 다시 등장한다. 그는 웨폰 엑스 프로그램에서 살아남은 사람들을 죽이거나 사냥을 한다. 데드풀에게 복수를 하기 위해서였다. 그는 웨이드의 텔레포터 주파수를 얻기 위하여 알프스에 위치한 킬러브루의 집에서 그를 고문한다. 에이젝스는 웨이드를 절벽 바로 옆으로 텔레포트하고 불시의 일격을 가하면서 웨이드를 또 다시, 죽인다. </small>
+<center> <img src="https://static.wikia.nocookie.net/marveldatabase/images/1/17/Francis_Fanny_%28Earth-616%29_from_Deadpool_Corps_Rank_and_Foul_Vol_1_1_0001.jpg/revision/latest/scale-to-width-down/642?cb=20160211194932" width="250"> </center>
+
+<br/>
+> <small> 살아남은 프란시스는 몇 년 후 에이젝스로 다시 등장한다. 그는 웨폰 엑스 프로그램에서 살아남은 사람들을 죽이거나 사냥을 한다. 데드풀에게 복수를 하기 위해서였다. 그는 웨이드의 텔레포터 주파수를 얻기 위하여 알프스에 위치한 킬러브루의 집에서 그를 고문한다. 에이젝스는 웨이드를 절벽 바로 옆으로 텔레포트하고 불시의 일격을 가하면서 웨이드를 또 다시, 죽인다.<sup id="1">[[1]](#1-ref)</sup></small>
 
 <br/>
 에이젝스는 저 수준인 반면에 영화에서는(사실 영화 자체가 에이젝스뿐 아니라 코믹스랑 대체적으로 무게감 같은 게 다르긴 하지만) 데드풀의 에이젝스에 대한 분노가 딱히 크게 느껴지진 않았는데 코믹스를 보니까.. .. 똑같았다(존나 반전). 이게 그러니까 에이젝스만 겁나 화나 있음. 그게 너무 발린단 거. 에이젝스는 "널 죽여버리겠다" 쒸익씌익거리면서 달려오는데(하필 또 능력이 스피드라서 개빠르게 달려옴), 데드풀은 그게 아니라는 게 또 하 믜츼 일방적인 집착남, 이건 된다. 이마 팍팍이.
@@ -43,29 +46,32 @@ tag: [REVIEW]
 코믹스 모든 덷풀 이슈에는 꼭 이런 식의 짠내 포인트가 나오는 듯? 
 근데 특히나 좀 애가 진짜 지쳐보인다고 느껴진 이유이자, 
 
+<br/>
 <br/>**무엇보다 개취로 좋았던 거!:**
 
-
+<center> <img src="https://github.com/iwdstry/yeieje/blob/master/_pstimg/ajax.jpg?raw=true" width="300"> </center>
 <br/>
 이슈 내가 본 게 많이 없어서 그렇겠지만💦 대부분 액션씬 느낌:
 ~액션씬? 음 그렇군~ 이었는데, 여기선 진짜 제목이 파이널배틀인 것만큼 싸움이 역동적!
 
-<br/>내가 소년만화를 좋아해서 싸움씬이 좀 흡입력 있으면 좋아하는데 전체적으로 그런 배틀씬이 되게 다이나믹하게 그려짐! 
-에이젝스 능력 때문에 가능한 것 같기도 하다. 대표 능력이 스피드이다 보니까 애가 맥을 못추고 당하는데다가, 
-힘도 되게 강화된 게 설정이라서 애가 한 대 맞고 금방 무너진다. 그러다보니 얘가 싸우고 난 후에 뭍에서 무릎 꿇고 앉는 
+<br/>내가 소년만화를 좋아해서 싸움씬이 좀 흡입력 있으면 좋아하는데 전체적으로 그런 배틀씬이 되게 다이나믹하게 그려졌다. 
+윗짤<sup id="2">[[2]](#2-ref)</sup></small>은 프란시스가 데드풀의 갈비뼈를 부수면서 "(뼈가 부러지는 소리가)들려, Boy?" 하고 말하는 건데,
+웨이드 대사칸이 저렇게 중첩된 이유가 그만큼 에이젝스 속도가 빠르다는 걸 대사칸으로 보여주는? 그런 ㅇㅇ
+
+<br/>역동적인 그런 게 에이젝스 능력 때문에 가능한 것 같기도 하다. 대표 능력이 스피드이다 보니까 컷 같은 것도 금방 바뀌기도 하고,
+힘도 되게 강화된 게 설정이라서 무너지는 속도가 다른 빌런들 앞에서랑 다르게 아프게(?) 무너지는. 그러다보니 얘가 싸우고 난 후에 뭍에서 무릎 꿇고 앉는 
 그 장면이 되게 지쳐보였대야 하나... 안 그래도 가뜩이나 힘든 인생 사는 애인데 진짜 에이젝스 죽여버려.
 
 
-<br/><p align="center"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="300"> <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="300"></p>
+<br/><br/><p align="center"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="300"> <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="300"></p>
 
 
 <br/>그리고 에이젝스 vs 데드풀 찾다가 알게 된 건데, 이 이미지들이 두 개 안에 하나는 A이고 하나는 A가 거꾸로라 유니폼이 달라서 ?뭐징?했는데 
 알고보니 오른쪽은 에이젝스가 다시 등장하는 때에 입고 있는 유니폼! 타노스 편에서도 에이젝스가 다시 나온다. 찾다가 짤봤는데 거기선 진짜 훈남각이 딱 섰다.
-줘터진 웨이드 멱살 잡은 짤이었는데. 짤만으로도 훈훈.. 좀 더 얘가 입체적인 인물이었으면 더 자주 나왔을 텐데 얼굴이 아쉬운 순간..
-
-https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)
+줘터진 웨이드 멱살 잡은 짤이었는데. 짤만으로도 훈훈.. 좀 더 얘가 입체적인 인물이었으면 더 자주 나왔을 텐데 얼굴이 아쉬운 순간이었음.
 
 
-이 편 외적인 거긴 한데, 얘들 여기서 이렇게 끝나서 뒷 이슈에서 바로 대판 싸우는데 
-꼭 풀이는 미친놈 귀찮다, 의 톤이지만 프란시스는 레알 돌아있는 게... 
-보다가 함박웃음 지어버림.. 얘들 파이널 배틀편은 타이틀 이미지도 심장 뛰게 만드는 게 그것도 진짜 짱!
+<br/><br/>
+<small id="1-ref"><sup>[[1]](#1)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
+<small id="1-ref"><sup>[[2]](#2)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-19-Joe-Kelly-ebook/dp/B00ZMVL69G/ref=sr_1_6?dchild=1&keywords=deadpool+%2319&qid=1608304372&sr=8-6){: target="_blank"} 미리보기</small> <br/>
+
