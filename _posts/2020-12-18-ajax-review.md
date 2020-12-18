@@ -1,14 +1,14 @@
 
 ---
 layout: post
-title:  Deadpool(1997-2002) #19. "This time, you stay death"
+title:  Deadpool(1997-2002) #18-19. "This time, you stay death"
 date: 2020-12-18
 modified: 2020-12-18
 description: .
 tag: [REVIEW]
 ---
 
-###### Deadpool(1997-2002) #19, 1998
+###### Deadpool(1997-2002) #18-19, 1998
 
 <br/><br/>
 
