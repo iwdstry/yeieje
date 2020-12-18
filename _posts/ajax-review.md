@@ -15,7 +15,7 @@ tag: [REVIEW]
 
 <br/>믜친 영화 보긴 했는데 영화 대사 너!뭐! 줘!와!! 저런 대사 코믹스에선? 
 
-<br/>..코믹스에선 저런 말 1도, 0.1도 안 하더라고 한다고 한다.. 눈물. 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 Friend, Pall만 씀. 뭐로 부르든동 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보이는 게. 이제 이름 같은 건 필요 없고 너의 죽음만이 관심 있다는 그런 걸까. 오탁쿠 눈에 눈물만이 차오른다.  
+<br/>..코믹스에선 저런 말 1도, 0.1도 안 하더라고 한다고 한다.. 눈물. 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 Friend, Pall만 씀. 뭐야. 친구하고 싶단 거야뭐야. 아님 뭐, 뭐로 부르든동 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보이는 게. 이제 이름 같은 건 필요 없고 너(의 죽음)만이 관심 있다는 그런 걸까. 오탁쿠 눈에 눈물만이 차오른다.  
 
 <br/><br/>
 Somehow Francis survived, and resurfaced years later as Ajax when he hunted down and killed many of the surviving members from the Weapon X project in order to exact his revenge on Deadpool. After torturing Killebrew at his mountain home in the Alps to obtain Wade's teleporter frequency, Ajax teleported Wade next to a nearby cliff and sucker-punched him, sending Deadpool to his death, again
