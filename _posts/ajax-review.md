@@ -57,7 +57,7 @@ tag: [REVIEW]
 
 
 <br/>
-<img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" heigh="400"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" heigh="400">
+<img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="400"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="400">
 
 
 <br/>아 그리고 에이젝스 vs 데드풀 찾다가 알게 된 건데, 이 이미지들이 두 개가 에이젝스 유니폼이 달라서 ?뭐징?했는데 
