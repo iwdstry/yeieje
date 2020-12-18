@@ -56,13 +56,13 @@ tag: [REVIEW]
 그 장면이 되게 지쳐보였대야 하나... 안 그래도 가뜩이나 힘든 인생 사는 애인데 진짜 에이젝스 죽여버려.
 
 
-<br/><p>
-<img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="300"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="300"></p>
+<br/><p><center>
+<img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="300">  <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="300"></center></p>
 
 
-<br/>아 그리고 에이젝스 vs 데드풀 찾다가 알게 된 건데, 이 이미지들이 두 개가 에이젝스 유니폼이 달라서 ?뭐징?했는데 
-알고보니 에이젝스가 다시 등장하는 때에 입고 있던 유니폼! 타노스 편에서도 에이젝스가 다시 나온다. 찾다가 짤봤는데 거기선 진짜 훈남각이 딱 섰다.
-줘터진 웨이드 멱살 잡은 짤이었는데 짤만으로도 훈훈.. 볼 게 산더미..
+<br/>그리고 에이젝스 vs 데드풀 찾다가 알게 된 건데, 이 이미지들이 두 개 안에 하나는 A이고 하나는 A가 거꾸로라 유니폼이 달라서 ?뭐징?했는데 
+알고보니 오른쪽은 에이젝스가 다시 등장하는 때에 입고 있는 유니폼! 타노스 편에서도 에이젝스가 다시 나온다. 찾다가 짤봤는데 거기선 진짜 훈남각이 딱 섰다.
+줘터진 웨이드 멱살 잡은 짤이었는데. 짤만으로도 훈훈.. 좀 더 얘가 입체적인 인물이었으면 더 자주 나왔을 텐데 얼굴이 아쉬운 순간..
 
 https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)
 
