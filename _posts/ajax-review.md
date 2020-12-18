@@ -24,8 +24,7 @@ tag: [REVIEW]
 <br/>
 에이젝스는 저 수준인 반면에 영화에서는(사실 영화 자체가 에이젝스뿐 아니라 코믹스랑 대체적으로 무게감 같은 게 다르긴 하지만) 데드풀의 에이젝스에 대한 분노가 딱히 크게 느껴지진 않았는데 코믹스를 보니까.. .. 똑같았다(존나 반전). 이게 그러니까 에이젝스만 겁나 화나 있음. 그게 너무 발린단 거. 에이젝스는 "널 죽여버리겠다" 쒸익씌익거리면서 달려오는데(하필 또 능력이 스피드라서 개빠르게 달려옴), 데드풀은 그게 아니라는 게 또 하 믜츼 일방적인 집착남, 이건 된다. 이마 팍팍이.
 
-<br/>근데 저런 덕후적으로 말고, 데드풀의 마인드가 내 기준 굉장히 흥미로웠는데. 그런 과거가 있었음에도 에이젝스에 대한 개인적인 증오나 
-그런 게 크게 느껴지지 않았다는 게? 
+<br/>근데 저런 덕후적으로 말고, 데드풀의 마인드가 내 기준 굉장히 흥미로웠는데. 그런 과거가 있었음에도 에이젝스에 대한 개인적인 증오나 그런 게 크게 느껴지지 않았다는 게? 
 물론 과거부터 되게 긴 시간이 지난 거라서 그렇긴 하겠지만, 
 처음부터 데드풀은 에이젝스를 죽이거나 복수할 마음은 없어 뵌다. 
 
@@ -58,7 +57,7 @@ tag: [REVIEW]
 
 
 <br/>
-<img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" heigh="500"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" heigh="500">
+<img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" heigh="400"><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" heigh="400">
 
 
 <br/>아 그리고 에이젝스 vs 데드풀 찾다가 알게 된 건데, 이 이미지들이 두 개가 에이젝스 유니폼이 달라서 ?뭐징?했는데 
