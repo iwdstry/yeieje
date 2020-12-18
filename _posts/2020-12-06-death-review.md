@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deadpool & Death annual. 45년 흘릴 눈물 다 흘려버려
+title: Deadpool & Death annual. "I'm ready now. death"
 date: 2020-12-06
 modified: 2020-12-06
 description: .
