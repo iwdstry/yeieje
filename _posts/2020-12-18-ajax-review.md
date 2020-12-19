@@ -15,9 +15,10 @@ tag: [REVIEW]
 
 <br/>데드풀 앤 데스는 데드풀 vs 에이잭스(아약스) 파이널배틀의 전반부인 셈이다. 그니까 얘가 에이젝스와 파이널배틀을 하기 위해서, 얘 둘의 과거사가 나오는 거고 그때 동료들의 영혼들이 나오는 거. 다시 만난 에이젝스는 데드풀을 정말정말 후두려패는데 줘패면서 하는 대사가 "This time, you stay death"다. 바로 전 편인 데드풀 앤 데스에서는 얘가 웨이드를 끌어안고 뼈를 부수면서 "you stay death"라고 하는데, 거기서 '이번에야말로'가 더 붙은 거. 
 
-<br/>내가 사실 딱히 게시글 제목을 대사로 쓸 생각은 없었는데, 찾다가 보니까 영화에서 에이젝스가 데드풀한테 하는 대표급 대사가: What's my name? 이래서. 아 나 진짜 ㅋ ㅋ ㅋㅋㅋ 아니 믜친 영화 보긴 했는데 대사 너!뭐! 조!와!! 해서 코믹스에서 몇 번 보였던 대사로 적음ㅋㅋㅋ 영화에서는 저 대사가 워낙 대표적이라서 밈까지 있든데 아 그거보고 개쨈ㅋㅋㅋㅋ
+<br/>내가 사실 딱히 게시글 제목을 대사로 쓸 생각은 없었는데, 찾다가 보니까 영화에서 에이젝스가 데드풀한테 하는 대표급 대사가: What's my name? 이래서. 아 나 진짜 ㅋ ㅋ ㅋㅋㅋ 아니 믜친 영화 보긴 했는데 대사 너!뭐! 조!와!! 해서 코믹스에서 몇 번 보였던 대사로 적음ㅋㅋㅋ 영화에서는 저 대사가 워낙 대표적이라서 밈까지 있든데, 외국에는 세척제 이름 에이젝스 있어서 아 그거보고 개쨈ㅋㅋㅋㅋ
 
-<center> <img src="https://i.imgur.com/aIEKTHS.jpg" width="150"> <img src="https://i.pinimg.com/originals/c8/ec/13/c8ec139c567abf482c35dcdc08f155a6.jpg" width="150"> </center>
+<br/>
+<center><img src="https://i.imgur.com/aIEKTHS.jpg" width="150"> <img src="https://i.pinimg.com/originals/c8/ec/13/c8ec139c567abf482c35dcdc08f155a6.jpg" width="150"> </center>
 
 <br/> ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ  
 <br/> 근데 저런 이름에 집착하는 대사 코믹스에선 1도 안 하더라고 한다고 한다. ㅠ 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보임. 이제 이름 같은 건 필요 없고 너(의 죽음)만이 관심 있다는 그런 걸까. ㅎㅎ 농담.  
@@ -67,7 +68,7 @@ tag: [REVIEW]
 윗짤<sup id="3">[[3]](#3-ref)</sup>은 프란시스가 데드풀의 갈비뼈를 부수면서 "(뼈가 부러지는 소리가)들려?" 하고 말하는 건데,
 웨이드 대사칸이 저렇게 중첩된 이유가 그만큼 에이젝스 속도가 빠르다는 걸 대사칸으로 보여주는? 그런 ㅇㅇ
 
-<br/>이걸 내가 생각해봤는데, 역동적인 그런 게 에이젝스 능력 때문에 가능한 것 같기도 하다. 대표 능력이 스피드이다 보니까 컷 같은 것도 금방금방 바뀌기도 하고,
+<br/>이걸 내가 생각해봤는데, 역동적인 그런 게 에이젝스 능력 때문인 것 같기도 하다. 대표 능력이 스피드이다 보니까 컷 같은 것도 금방금방 바뀌기도 하고,
 힘도 되게 강화된 게 설정이라서 데드풀 무너지는 속도가 다른 빌런들 앞에서랑 다르게 아프게(?) 무너지는. 또 그리고 배틀만으로 2편의 이슈에 걸쳐서 그려지니까 얘들 스토리와 
 긴장이 계속 그만큼 이어져서 더 몰입했나 싶기도 함. 왜냐면 내가 몇 안 본 이슈들은 대개 싸움이 단발성으로 일어났다가 끝났었어서링. 
 
@@ -90,5 +91,5 @@ tag: [REVIEW]
 <br/><br/>
 <small id="1-ref"><sup>[[1]](#1)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
 <small id="1-ref"><sup>[[2]](#2)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-18-Joe-Kelly-ebook/dp/B00ZMVL5HE/ref=sr_1_1?dchild=1&keywords=Deadpool+%281997-2002%29+%2318&qid=1608359059&sr=8-1){: target="_blank"} 미리보기</small> <br/>
-<small id="1-ref"><sup>[[2]](#2)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-19-Joe-Kelly-ebook/dp/B00ZMVL69G/ref=sr_1_6?dchild=1&keywords=deadpool+%2319&qid=1608304372&sr=8-6){: target="_blank"} 미리보기</small> <br/>
+<small id="1-ref"><sup>[[3]](#3)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-19-Joe-Kelly-ebook/dp/B00ZMVL69G/ref=sr_1_6?dchild=1&keywords=deadpool+%2319&qid=1608304372&sr=8-6){: target="_blank"} 미리보기</small> <br/>
 
