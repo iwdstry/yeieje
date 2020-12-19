@@ -24,7 +24,7 @@ tag: [REVIEW]
 <br/> 근데 저런 이름에 집착하는 대사 코믹스에선 1도 안 하더라고 한다고 한다. ㅠ 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보임. 이제 이름 같은 건 필요 없고 너(의 죽음)만이 관심 있다는 그런 걸까. ㅎㅎ 농담.  
 
 <br/><br/><br/>
-<center> <img src="https://static.wikia.nocookie.net/marveldatabase/images/1/17/Francis_Fanny_%28Earth-616%29_from_Deadpool_Corps_Rank_and_Foul_Vol_1_1_0001.jpg/revision/latest/scale-to-width-down/642?cb=20160211194932" width="250"> </center>
+<center> <img src="https://static.wikia.nocookie.net/marveldatabase/images/1/17/Francis_Fanny_%28Earth-616%29_from_Deadpool_Corps_Rank_and_Foul_Vol_1_1_0001.jpg/revision/latest?cb=20160211194932" width="250"> </center>
 
 <br/>
 > <small> 살아남은 프란시스는 몇 년 후 에이젝스로 다시 등장한다. 그는 웨폰 엑스 프로그램에서 살아남은 사람들을 죽이거나 사냥을 한다. 데드풀에게 복수를 하기 위해서였다. 그는 웨이드의 텔레포터 주파수를 얻기 위하여 알프스에 위치한 킬러브루의 집에서 그를 고문한다. 에이젝스는 웨이드를 절벽 바로 옆으로 텔레포트하고 불시의 일격을 가하면서 웨이드를 또 다시, 죽인다.<sup id="1">[[1]](#1-ref)</sup></small>
