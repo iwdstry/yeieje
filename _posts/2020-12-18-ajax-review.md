@@ -84,7 +84,7 @@ tag: [REVIEW]
 <br/><br/><center><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="200"> <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="200"></center>
 
 
-<br/><small><small>이건 내용이랑 상관없지만, 에이젝스 vs 데드풀 찾다가 알게 된 건데 이 이미지 두 개에서 하나는 A이고 하나는 A가 거꾸로라 유니폼이 달라서 ?뭐징?했었다. 그리고 과거에 저렇게 웨이드 패고 나서 웨이드가 실험실 불태워서 그때 얼굴이 녹는 바람에 맨 윗컷처럼 저렇게 등장하는 걸로 알고 있었는데, 오른쪽 짤 넘 잘생긴거임. 그래서 얼굴이 무너지기 전인가 했더니 알고보니 오른쪽은 에이젝스가 다시 등장하는 때 모습! 타노스 편에서도 에이젝스가 다시 나온다. 얼굴 순서는 왼쪽 > 맨 윗짤 > 오른쪽 인 것ㅇㅇ 줘터진 웨이드 멱살 잡은 짤이었는데 짤만으로도 훈훈.. </small></small>
+<br/><small><small>이건 내용이랑 상관없지만, 에이젝스 vs 데드풀 찾다가 알게 된 건데 이 이미지 두 개에서 하나는 A이고 하나는 A가 거꾸로라 유니폼이 달라서 ?뭐징?했는데 오른쪽은 에이젝스가 다시 등장하는 때 모습! 타노스 편에서도 에이젝스가 다시 나온다. 얼굴 순서는 왼쪽 > 맨 윗짤 티타늄갑옷 > 오른쪽 인 것ㅇㅇ 내가 봤던 짤은 줘터진 웨이드 멱살 잡으면서 나 기억나? 하던 장면이었는데 거기서 얼굴이 정말 저런 훈남이더라고 하더라고 한다. </small></small>
 
 <br/>
 <br/><br/>
