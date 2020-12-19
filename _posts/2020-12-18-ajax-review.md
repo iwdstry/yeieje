@@ -36,10 +36,10 @@ tag: [REVIEW]
 <center> <img src="https://github.com/iwdstry/yeieje/blob/master/_pstimg/ajax2.jpg?raw=true" width="400"> </center>
 
 
-<br/>데드풀이 안 죽어서 눈에 피까지 쏠린 에이젝스.<sup id="2">[[2]](#2-ref)</sup> 다시 나타난 에이젝스는 어떻게든 데드풀을 죽이려고 혈안인데 흥미로운 게 뭐였냐면, 얘의 이런 흥분 톤에 비해 데드풀은 저렇게까지 돌아있지 않다. 에이젝스만 겁나 화나 있음. 그게 너무 발린단 거. 서로 톤이 대조되면서 또 하 믜츼 일방적인 집착남, 이건 된다. 이마 팍팍이.
+<br/>데드풀이 안 죽어서 눈에 피까지 쏠린 에이젝스.<sup id="2">[[2]](#2-ref)</sup> 다시 나타난 에이젝스는 어떻게든 데드풀을 죽이려고 혈안인데 흥미로운 게 뭐였냐면, 얘의 이런 흥분 톤에 비해 데드풀은 저렇게까지 돌아있지 않다는 게 ㅎ ㅎㅎ. 에이젝스만 겁나 화나 있음. 그게 너무 발린단 거. 서로 톤이 대조되면서 또 하 믜츼 일방적인 집착남, 이건 된다. 이마 팍팍이.
 
-<br/>사실 저런 덕후적으로 말고 데드풀의 마인드가 내 기준 굉장히 흥미로웠는데, 그런 과거가 있었음에도 에이젝스에 대한 개인적인 증오나 그런 게 크게 느껴지지 않았다는 게? 
-물론 과거로부터 되게 긴 시간이 지난 거라서 그렇긴 하겠지만 아무리 그렇다고 해도 되게 의외였다. 처음부터 데드풀은 에이젝스를 죽이거나 복수할 마음이 없어 뵌다. 얘가 에이젝스를 죽이려고 마음 먹은 것도 '하고 싶어서'가 아니라 '해야 할 일'이라고 인식해서 행동하게 됨. 
+<br/>사실 저런 덕후적으로 말고, 그런 과거가 있었음에도 에이젝스에 대한 개인적인 증오나 그런 게 크게 느껴지지 않았다는 게 좀 의외였다고 해야 하나. 
+물론 과거로부터 되게 긴 시간이 지난 거라서 그렇다고 할 수도 있긴 하겠지만. 처음부터 데드풀은 에이젝스를 죽이거나 복수할 마음이 없어 뵌다. 얘가 에이젝스를 죽이려고 마음 먹은 것도 '하고 싶어서'가 아니라 '해야 할 일'이라고 인식해서 행동하게 됨. 
 
 <br/>그래서 그런지 도중에 싸움을 관두려는 것도 보이고, 
 다른 사람 살리는 데에 더 집중하는 그런 장면도, 아! 이런 거 때문에! 
@@ -51,18 +51,16 @@ tag: [REVIEW]
 <br/>배틀이 끝나고 나서 나오는 얘 대사도 급작스러운 짠내인. 
 시작 자체가 원치 않았던 싸움이다보니까 끝에서는 얘가, 
 이제 진짜로_진짜 이 배틀이 끝났다는 걸 알려주려고 하고 
-'이제 정의는 구현됐어?' 하고 물어보기도 하는데 그 장면 보면, ..무슨 일인지 갑자기 눈물만이 흐르는데.. 됨. 
+'이제 정의는 구현됐어?' 하고 물어보기도 하는데 그 장면 보면, *..무슨 일인지 갑자기 눈물만이 흐르는데..* 됨. 
 코믹스 모든 덷풀 이슈에는 꼭 이런 식의 짠내 포인트가 나오는 듯? 
 그래도 특히나 여기서 애가 좀 지쳐보인다고 느껴진 이유이자, 
 
-<br/>
-**무엇보다 개취로 좋았던 거!:**
+<br/>**무엇보다 개취로 좋았던 거!:**
 
 <br/>
 <center> <img src="https://github.com/iwdstry/yeieje/blob/master/_pstimg/ajax.jpg?raw=true" width="300"> </center>
 <br/>
-이슈 내가 본 게 많이 없어서 그렇겠지만💦 대부분 액션씬 느낌:
-~액션씬? 음 그렇군~ 이었는데, 여기선 진짜 제목이 파이널배틀인 것만큼 싸움이 역동적!
+이슈 내가 본 게 많이 없어서 그렇지만💦 대부분 액션씬 느낌: ~액션씬? 음 그렇군~ 이었는데, 여기선 진짜 제목이 파이널배틀인 것만큼 싸움이 역동적!
 
 <br/>내가 소년만화를 좋아해서 싸움씬이 흡입력 있으면 좋아하는데 전체적으로 그런 배틀씬이 되게 다이나믹하게 그려졌다. 
 윗짤<sup id="3">[[3]](#3-ref)</sup>은 프란시스가 데드풀의 갈비뼈를 부수면서 "(뼈가 부러지는 소리가)들려?" 하고 말하는 건데,
@@ -75,19 +73,21 @@ tag: [REVIEW]
 <br/>그러다보니 얘가 싸우고 난 후에 뭍에서 무릎 꿇고 앉는 그 장면이 되게 지쳐보였대야 하나... 안 그래도 가뜩이나 힘든 인생 사는 애인데 진짜 에이젝스 죽여버려.
 
 <br/><br/> 데드풀 앤 데쓰를 읽고 이걸 읽으면, 연결된 내용인데도 불구하고 확연히 다른 톤이라서 다 보고 나면 꼭 별개의 이슈처럼 느껴졌다.
-전 편의 임팩트를 어떻게든 이어가겠단 건지 배틀 자체가 되게 머래야하지 진했음. 하.. 진하단 것 말곤 적당한 단어를 못찾겠다. 이건 근데 엄청난 갠적인 감상인 게,
-내가 이슈를 본 게 얼마 없음 ㅠㅠ. 그래서 이 이슈들만 놓고 봤을 땐, 데드풀 앤 데쓰가 워낙 강렬해서 웬만한 이야기라면 이어서 읽으면 쉽게 묻힐 수 있었을 텐데 
-다 묻히지 않을 만큼 잼났다! 액션뿐 아니라 배틀 끝의 허망한 분위기나, 결말이나, +귀여운 데드풀까지(ㅋㅋ) 전체적으로 정말 조았는! ㅎㅎ 아쉬운 건, 이만큼의 배틀을
+전편의 임팩트를 어떻게든 이어가겠단 건지 배틀 자체가 되게 진했음. 하.. 진하단 것 말곤 적당한 단어를 못찾겠다. 이건 근데 엄청난 갠적인 감상인 게,
+내가 이슈를 본 게 얼마 없음ㅠㅠ. 그래서 이 이슈들만 놓고 봤을 땐, 데드풀 앤 데쓰가 워낙 강렬해서 웬만한 이야기라면 이어서 읽으면 쉽게 묻힐 수 있었을 텐데 
+다 묻히지 않을 만큼 잼났다! 액션뿐 아니라 배틀 끝의 분위기나, 결말이나, +귀여운 데드풀(ㅋㅋ)이나, 전체적으로 정말 조았는! ㅎㅎ 아쉬운 건 이만큼의 배틀을
 보여주는 캐릭터인데 입체적이지 않다는 것이ㅠ 얘만의 스토리를 가진 게 없어서 그런지 웨이드를 족치기 위해 만들어진 도구 같다 느껴진 ㅠㅠ 
 
 
-<br/><br/><center><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="200"> <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="200"></center>
+<br/><br/>
+끝!
+
+<br/><br/><br/><center><img src="https://www.liveabout.com/thmb/swFjBIlpa7cffoErIk6Y9rqTUiM=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DeadpoolandAjaxbySteveHarrisReggieJonesandChrisSotomayor-56a5420e3df78cf772875ac2.jpg" alt="francis" height="200"> <img src="https://vignette.wikia.nocookie.net/marveldatabase/images/c/cd/Francis_Fanny_%28Earth-616%29_from_Deadpool_vs._Thanos_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/343?cb=20170126040425" alt="francis" height="200"></center>
 
 
 <br/><small><small>이건 내용이랑 상관없지만, 에이젝스 vs 데드풀 찾다가 알게 된 건데 이 이미지 두 개에서 하나는 A이고 하나는 A가 거꾸로라 유니폼이 달라서 ?뭐징?했는데 오른쪽은 에이젝스가 다시 등장하는 때 모습! 타노스 편에서도 에이젝스가 다시 나온다. 얼굴 순서는 왼쪽 > 맨 윗짤 티타늄갑옷 > 오른쪽 인 것ㅇㅇ 내가 봤던 짤은 줘터진 웨이드 멱살 잡으면서 나 기억나? 하던 장면이었는데 거기서 얼굴이 정말 저런 훈남 느낌이 났다고 하더라고 한다. </small></small>
 
-<br/>
-<br/><br/>
+<br/><br/><br/>
 <small id="1-ref"><sup>[[1]](#1)</sup> [marvel.fandom.com](https://marvel.fandom.com/wiki/Francis_Fanny_(Earth-616)){: target="_blank"} </small> <br/>
 <small id="1-ref"><sup>[[2]](#2)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-18-Joe-Kelly-ebook/dp/B00ZMVL5HE/ref=sr_1_1?dchild=1&keywords=Deadpool+%281997-2002%29+%2318&qid=1608359059&sr=8-1){: target="_blank"} 미리보기</small> <br/>
 <small id="1-ref"><sup>[[3]](#3)</sup> [amazon.com](https://www.amazon.com/Deadpool-1997-2002-19-Joe-Kelly-ebook/dp/B00ZMVL69G/ref=sr_1_6?dchild=1&keywords=deadpool+%2319&qid=1608304372&sr=8-6){: target="_blank"} 미리보기</small> <br/>
