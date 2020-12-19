@@ -18,7 +18,7 @@ tag: [REVIEW]
 <br/>내가 사실 딱히 게시글 제목을 대사로 쓸 생각은 없었는데, 찾다가 보니까 영화에서 에이젝스가 데드풀한테 하는 대표급 대사가: What's my name? 이래서. 아 나 진짜 ㅋ ㅋ ㅋㅋㅋ 아니 믜친 영화 보긴 했는데 대사 너!뭐! 조!와!! 해서 코믹스에서 몇 번 보였던 대사로 적음ㅋㅋㅋ 영화에서는 저 대사가 워낙 대표적이라서 밈까지 있든데, 외국에는 세척제 이름 에이젝스 있어서 아 그거보고 개쨈ㅋㅋㅋㅋ
 
 <br/>
-<center><img src="https://i.imgur.com/aIEKTHS.jpg" width="150"> <img src="https://i.pinimg.com/originals/c8/ec/13/c8ec139c567abf482c35dcdc08f155a6.jpg" width="150"> </center>
+<center><img src="https://i.imgur.com/aIEKTHS.jpg" height="200"> <img src="https://i.pinimg.com/originals/c8/ec/13/c8ec139c567abf482c35dcdc08f155a6.jpg" height="200"> </center>
 
 <br/> ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ  
 <br/> 근데 저런 이름에 집착하는 대사 코믹스에선 1도 안 하더라고 한다고 한다. ㅠ 웨이드가 그렇게 프란시스프란시스 거려도 프란시스는 그저 데드풀을 죽이는 것말고는 아무 생각이 없어보임. 이제 이름 같은 건 필요 없고 너(의 죽음)만이 관심 있다는 그런 걸까. ㅎㅎ 농담.  
