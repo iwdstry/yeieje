@@ -53,6 +53,7 @@ image: "/Uncanny-xmen-biography-01/deadpool01.png"
 <br/>
 
 
+###### 과거 더 찾아보다가 적어놓은 거
 ###### [Fandom Marvel](https://marvel.fandom.com/wiki/Wade_Wilson_(Earth-616)){: target="_blank"}
 
 ### 팬덤 마블. Early years
